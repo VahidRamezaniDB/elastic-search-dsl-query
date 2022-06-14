@@ -4,3 +4,4 @@
 *.zip
 *.rar
 .venv
+*env
