@@ -1,0 +1,22 @@
+{
+  "aggs": {
+    "cat": {
+      "terms": {
+        "field": "category.keyword",
+        "size": 1000
+      },
+      "aggs": {
+        "theMax": {
+          "max": {
+            "field": "price"
+          }
+        },
+        "theMin": {
+          "min": {
+            "field": "price"
+          }
+        }
+      }
+    }
+  }
+}

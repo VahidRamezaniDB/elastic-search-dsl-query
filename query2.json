@@ -1,0 +1,10 @@
+{
+  "query": {
+    "bool": {
+      "must": [
+        { "match": { "author": "اروین یالوم" } },
+        { "match": { "publisher": "قطره" } }
+      ]
+    }
+  }
+}

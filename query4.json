@@ -1,0 +1,10 @@
+{
+  "aggs": {
+    "narr": {
+      "terms": {
+        "field": "narrator.keyword",
+        "size": 2
+      }
+    }
+  }
+}
