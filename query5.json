@@ -1,0 +1,16 @@
+{
+    "query": {
+        "bool": {
+            "filter": [
+                {
+                    "range": {
+                        "page count": {
+                            "gte": 100,
+                            "lte": 200
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

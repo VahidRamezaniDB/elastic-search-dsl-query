@@ -1,0 +1,19 @@
+{
+    "query": {
+        "match_all": {}
+    },
+    "aggs": {
+        "category_aggs": {
+            "terms": {
+                "field": "category"
+            },
+            "aggs": {
+                "avg_price": {
+                    "avg": {
+                        "field": "pvp"
+                    }
+                }
+            }
+        }
+    }
+}
