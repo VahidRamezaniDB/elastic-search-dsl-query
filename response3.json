@@ -1,0 +1,3018 @@
+  "aggregations" : {
+    "cat" : {
+      "doc_count_error_upper_bound" : 0,
+      "sum_other_doc_count" : 0,
+      "buckets" : [
+        {
+          "key" : "کودک",
+          "doc_count" : 4386,
+          "theMax" : {
+            "value" : 168000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "روانشناسی,انگیزشی و موفقیت",
+          "doc_count" : 1196,
+          "theMax" : {
+            "value" : 95000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "نوجوان",
+          "doc_count" : 1165,
+          "theMax" : {
+            "value" : 100000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "روانشناسی,خودشناسی و خودسازی",
+          "doc_count" : 1088,
+          "theMax" : {
+            "value" : 100000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "فلسفه",
+          "doc_count" : 938,
+          "theMax" : {
+            "value" : 192000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "روانشناسی, انگیزشی و موفقیت",
+          "doc_count" : 893,
+          "theMax" : {
+            "value" : 60000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "شعر, شعر ایران, شعر معاصر",
+          "doc_count" : 760,
+          "theMax" : {
+            "value" : 63031.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان ایرانی",
+          "doc_count" : 748,
+          "theMax" : {
+            "value" : 99500.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "هنر, سینما و تاتر, نمایشنامه",
+          "doc_count" : 735,
+          "theMax" : {
+            "value" : 80000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان آمریکا",
+          "doc_count" : 681,
+          "theMax" : {
+            "value" : 125000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دین و عرفان",
+          "doc_count" : 640,
+          "theMax" : {
+            "value" : 150000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "روانشناسی, خودشناسی و خودسازی",
+          "doc_count" : 617,
+          "theMax" : {
+            "value" : 103000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان انگلیس",
+          "doc_count" : 585,
+          "theMax" : {
+            "value" : 145000.0
+          },
+          "theMin" : {
+            "value" : 1500.0
+          }
+        },
+        {
+          "key" : "دین و عرفان, مذهبی, علوم قرآنی",
+          "doc_count" : 518,
+          "theMax" : {
+            "value" : 200000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "علمی,دانش",
+          "doc_count" : 507,
+          "theMax" : {
+            "value" : 189000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "تاریخ",
+          "doc_count" : 457,
+          "theMax" : {
+            "value" : 140000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان ایرانی",
+          "doc_count" : 377,
+          "theMax" : {
+            "value" : 99500.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "میکروبوک",
+          "doc_count" : 367,
+          "theMax" : {
+            "value" : 12000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "آموزش",
+          "doc_count" : 362,
+          "theMax" : {
+            "value" : 88000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "روانشناسی, روابط خانوادگی",
+          "doc_count" : 347,
+          "theMax" : {
+            "value" : 56000.0
+          },
+          "theMin" : {
+            "value" : 1500.0
+          }
+        },
+        {
+          "key" : "سبک زندگی, سلامت و رژیم درمانی",
+          "doc_count" : 347,
+          "theMax" : {
+            "value" : 197500.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "شعر, شعر ایران, شعر کهن",
+          "doc_count" : 340,
+          "theMax" : {
+            "value" : 110000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "هنر, سینما و تاتر, دور تا دور دنیا نمایشنامه",
+          "doc_count" : 332,
+          "theMax" : {
+            "value" : 60000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "آموزش,علوم کامپیوتر",
+          "doc_count" : 307,
+          "theMax" : {
+            "value" : 199000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "روانشناسی, روانکاوی",
+          "doc_count" : 305,
+          "theMax" : {
+            "value" : 108000.0
+          },
+          "theMin" : {
+            "value" : 1500.0
+          }
+        },
+        {
+          "key" : "حقوق",
+          "doc_count" : 303,
+          "theMax" : {
+            "value" : 350000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "اقتصاد",
+          "doc_count" : 294,
+          "theMax" : {
+            "value" : 200000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "علمی",
+          "doc_count" : 279,
+          "theMax" : {
+            "value" : 100000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "سبک زندگی",
+          "doc_count" : 277,
+          "theMax" : {
+            "value" : 100000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "روانشناسی, روابط اجتماعی",
+          "doc_count" : 269,
+          "theMax" : {
+            "value" : 60000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,کارآفرینی و کسب و کار",
+          "doc_count" : 261,
+          "theMax" : {
+            "value" : 96000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان فرانسه",
+          "doc_count" : 241,
+          "theMax" : {
+            "value" : 111000.0
+          },
+          "theMin" : {
+            "value" : 1500.0
+          }
+        },
+        {
+          "key" : "تاریخ,  تاریخ جهان",
+          "doc_count" : 236,
+          "theMax" : {
+            "value" : 182000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "علوم اجتماعی",
+          "doc_count" : 234,
+          "theMax" : {
+            "value" : 144000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "تاریخ, تاریخ معاصر",
+          "doc_count" : 225,
+          "theMax" : {
+            "value" : 175000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان کوتاه",
+          "doc_count" : 213,
+          "theMax" : {
+            "value" : 55000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "شعر,شعر ایران,شعر معاصر",
+          "doc_count" : 209,
+          "theMax" : {
+            "value" : 45000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "علوم اجتماعی, علوم سیاسی",
+          "doc_count" : 198,
+          "theMax" : {
+            "value" : 190000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "سبک زندگی, خانواده",
+          "doc_count" : 194,
+          "theMax" : {
+            "value" : 70000.0
+          },
+          "theMin" : {
+            "value" : 1000.0
+          }
+        },
+        {
+          "key" : "روانشناسی,روابط خانوادگی",
+          "doc_count" : 193,
+          "theMax" : {
+            "value" : 54000.0
+          },
+          "theMin" : {
+            "value" : 1000.0
+          }
+        },
+        {
+          "key" : "کمیک‌های رایگان",
+          "doc_count" : 190,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, کارآفرینی و کسب و کار",
+          "doc_count" : 186,
+          "theMax" : {
+            "value" : 73500.0
+          },
+          "theMin" : {
+            "value" : 1900.0
+          }
+        },
+        {
+          "key" : "تاریخ, تاریخ کهن",
+          "doc_count" : 180,
+          "theMax" : {
+            "value" : 64000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان آمریکا",
+          "doc_count" : 179,
+          "theMax" : {
+            "value" : 77000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "سبک زندگی,سلامت و رژیم درمانی",
+          "doc_count" : 171,
+          "theMax" : {
+            "value" : 109000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان سایر کشورها",
+          "doc_count" : 170,
+          "theMax" : {
+            "value" : 95000.0
+          },
+          "theMin" : {
+            "value" : 2800.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان انگلیس",
+          "doc_count" : 160,
+          "theMax" : {
+            "value" : 160000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دین و عرفان, عرفان",
+          "doc_count" : 150,
+          "theMax" : {
+            "value" : 108000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "زندگی‌نامه ، سفرنامه و خاطرات",
+          "doc_count" : 145,
+          "theMax" : {
+            "value" : 95000.0
+          },
+          "theMin" : {
+            "value" : 2800.0
+          }
+        },
+        {
+          "key" : "دین و عرفان,عرفان",
+          "doc_count" : 144,
+          "theMax" : {
+            "value" : 190000.0
+          },
+          "theMin" : {
+            "value" : 2500.0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, تبلیغات و بازاریابی, بازاریابی",
+          "doc_count" : 144,
+          "theMax" : {
+            "value" : 85000.0
+          },
+          "theMin" : {
+            "value" : 1000.0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, مدیریت استراتژیک",
+          "doc_count" : 144,
+          "theMax" : {
+            "value" : 85000.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Romance",
+          "doc_count" : 138,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "آموزش,زبان آموزی",
+          "doc_count" : 138,
+          "theMax" : {
+            "value" : 120000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "علمی,تکنولوژی",
+          "doc_count" : 134,
+          "theMax" : {
+            "value" : 130000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کتاب‌های رایگان ",
+          "doc_count" : 132,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, رهبری",
+          "doc_count" : 131,
+          "theMax" : {
+            "value" : 80000.0
+          },
+          "theMin" : {
+            "value" : 1900.0
+          }
+        },
+        {
+          "key" : "شعر, شعر جهان",
+          "doc_count" : 129,
+          "theMax" : {
+            "value" : 135000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "شعر,شعر ایران,شعر کهن",
+          "doc_count" : 129,
+          "theMax" : {
+            "value" : 110000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "هنر, سینما و تاتر, فیلمنامه",
+          "doc_count" : 129,
+          "theMax" : {
+            "value" : 84000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دین و عرفان,مذهبی,علوم قرآنی",
+          "doc_count" : 123,
+          "theMax" : {
+            "value" : 68500.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی کامپیوتر",
+          "doc_count" : 119,
+          "theMax" : {
+            "value" : 110000.0
+          },
+          "theMin" : {
+            "value" : 19500.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو بادیو",
+          "doc_count" : 119,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "تاریخ,تاریخ کهن",
+          "doc_count" : 114,
+          "theMax" : {
+            "value" : 170000.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "هنر,نقاشی",
+          "doc_count" : 112,
+          "theMax" : {
+            "value" : 60000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان آلمان",
+          "doc_count" : 111,
+          "theMax" : {
+            "value" : 75000.0
+          },
+          "theMin" : {
+            "value" : 4000.0
+          }
+        },
+        {
+          "key" : "تاریخ,تاریخ معاصر",
+          "doc_count" : 110,
+          "theMax" : {
+            "value" : 140000.0
+          },
+          "theMin" : {
+            "value" : 3500.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان کوتاه",
+          "doc_count" : 110,
+          "theMax" : {
+            "value" : 51000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "هنر,سینما و تاتر,نمایشنامه",
+          "doc_count" : 110,
+          "theMax" : {
+            "value" : 38000.0
+          },
+          "theMin" : {
+            "value" : 1900.0
+          }
+        },
+        {
+          "key" : "هنر",
+          "doc_count" : 108,
+          "theMax" : {
+            "value" : 125000.0
+          },
+          "theMin" : {
+            "value" : 1100.0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,تبلیغات و بازاریابی,بازاریابی",
+          "doc_count" : 103,
+          "theMax" : {
+            "value" : 142000.0
+          },
+          "theMin" : {
+            "value" : 2500.0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان روسیه",
+          "doc_count" : 101,
+          "theMax" : {
+            "value" : 147000.0
+          },
+          "theMin" : {
+            "value" : 2500.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان سایر کشورها",
+          "doc_count" : 101,
+          "theMax" : {
+            "value" : 81000.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,رهبری",
+          "doc_count" : 101,
+          "theMax" : {
+            "value" : 120000.0
+          },
+          "theMin" : {
+            "value" : 2500.0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,مدیریت استراتژیک",
+          "doc_count" : 101,
+          "theMax" : {
+            "value" : 72000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "تاریخ, تاریخ جهان",
+          "doc_count" : 100,
+          "theMax" : {
+            "value" : 140000.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "علمی, دانش",
+          "doc_count" : 100,
+          "theMax" : {
+            "value" : 80000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "روانشناسی,روابط اجتماعی",
+          "doc_count" : 99,
+          "theMax" : {
+            "value" : 56000.0
+          },
+          "theMin" : {
+            "value" : 2500.0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان فانتزی",
+          "doc_count" : 94,
+          "theMax" : {
+            "value" : 95000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان فرانسه",
+          "doc_count" : 89,
+          "theMax" : {
+            "value" : 48000.0
+          },
+          "theMin" : {
+            "value" : 4800.0
+          }
+        },
+        {
+          "key" : "ادبیات و نقد ادبی",
+          "doc_count" : 86,
+          "theMax" : {
+            "value" : 175000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Action & Adventure",
+          "doc_count" : 83,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "علمی, تکنولوژی",
+          "doc_count" : 83,
+          "theMax" : {
+            "value" : 70000.0
+          },
+          "theMin" : {
+            "value" : 1900.0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,مالی و سرمایه گذاری",
+          "doc_count" : 83,
+          "theMax" : {
+            "value" : 500000.0
+          },
+          "theMin" : {
+            "value" : 3900.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,ابدیت و یک روز",
+          "doc_count" : 83,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "روانشناسی,روانکاوی",
+          "doc_count" : 82,
+          "theMax" : {
+            "value" : 60000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "سبک زندگی, فرهنگ و زندگی ",
+          "doc_count" : 82,
+          "theMax" : {
+            "value" : 60000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "روانشناسی, روانشناسی کودکان",
+          "doc_count" : 77,
+          "theMax" : {
+            "value" : 60000.0
+          },
+          "theMin" : {
+            "value" : 1500.0
+          }
+        },
+        {
+          "key" : "روانشناسی,روانشناسی کودکان",
+          "doc_count" : 75,
+          "theMax" : {
+            "value" : 40000.0
+          },
+          "theMin" : {
+            "value" : 6000.0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Mystery & Detective",
+          "doc_count" : 72,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "روانشناسی",
+          "doc_count" : 66,
+          "theMax" : {
+            "value" : 60000.0
+          },
+          "theMin" : {
+            "value" : 5900.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,فردوسی خوانی",
+          "doc_count" : 66,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش",
+          "doc_count" : 60,
+          "theMax" : {
+            "value" : 500000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Fantasy",
+          "doc_count" : 57,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "سبک زندگی,سرگرمی",
+          "doc_count" : 57,
+          "theMax" : {
+            "value" : 79000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, مالی و سرمایه گذاری",
+          "doc_count" : 57,
+          "theMax" : {
+            "value" : 101000.0
+          },
+          "theMin" : {
+            "value" : 2800.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,داستان شب",
+          "doc_count" : 57,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "سبک زندگی, گردشگری",
+          "doc_count" : 56,
+          "theMax" : {
+            "value" : 70840.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان روسیه",
+          "doc_count" : 54,
+          "theMax" : {
+            "value" : 114000.0
+          },
+          "theMin" : {
+            "value" : 10000.0
+          }
+        },
+        {
+          "key" : "سبک زندگی, سرگرمی",
+          "doc_count" : 54,
+          "theMax" : {
+            "value" : 61000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "هنر,هنر کاربردی",
+          "doc_count" : 53,
+          "theMax" : {
+            "value" : 343000.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "--",
+          "doc_count" : 52,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان آسیای شرقی",
+          "doc_count" : 52,
+          "theMax" : {
+            "value" : 61000.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "سبک زندگی,گردشگری",
+          "doc_count" : 52,
+          "theMax" : {
+            "value" : 40000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان آمریکای جنوبی",
+          "doc_count" : 49,
+          "theMax" : {
+            "value" : 90000.0
+          },
+          "theMin" : {
+            "value" : 2800.0
+          }
+        },
+        {
+          "key" : "علوم اجتماعی, ارتباطات و رسانه",
+          "doc_count" : 49,
+          "theMax" : {
+            "value" : 75000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,تبلیغات و بازاریابی,فروش",
+          "doc_count" : 48,
+          "theMax" : {
+            "value" : 95000.0
+          },
+          "theMin" : {
+            "value" : 4000.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان آمریکای جنوبی",
+          "doc_count" : 47,
+          "theMax" : {
+            "value" : 59000.0
+          },
+          "theMin" : {
+            "value" : 8000.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,استودیو صداهای همراه",
+          "doc_count" : 47,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان ایتالیا",
+          "doc_count" : 46,
+          "theMax" : {
+            "value" : 60000.0
+          },
+          "theMin" : {
+            "value" : 5000.0
+          }
+        },
+        {
+          "key" : "زنان و فمینیسم",
+          "doc_count" : 44,
+          "theMax" : {
+            "value" : 52000.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "هنر,معماری",
+          "doc_count" : 44,
+          "theMax" : {
+            "value" : 80000.0
+          },
+          "theMin" : {
+            "value" : 2500.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم پایه,علوم کامپیوتر",
+          "doc_count" : 42,
+          "theMax" : {
+            "value" : 130000.0
+          },
+          "theMin" : {
+            "value" : 17000.0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Short Stories (single Author)",
+          "doc_count" : 41,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان ترکیه",
+          "doc_count" : 41,
+          "theMax" : {
+            "value" : 75000.0
+          },
+          "theMin" : {
+            "value" : 5000.0
+          }
+        },
+        {
+          "key" : "هنر, معماری",
+          "doc_count" : 40,
+          "theMax" : {
+            "value" : 100000.0
+          },
+          "theMin" : {
+            "value" : 3500.0
+          }
+        },
+        {
+          "key" : "هنر, تاریخ هنر",
+          "doc_count" : 39,
+          "theMax" : {
+            "value" : 120000.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Drama",
+          "doc_count" : 38,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دین و عرفان, مذهبی, کتاب های محرم",
+          "doc_count" : 37,
+          "theMax" : {
+            "value" : 54300.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "هنر,سینما و تاتر,دور تا دور دنیا نمایشنامه",
+          "doc_count" : 37,
+          "theMax" : {
+            "value" : 50000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Science Fiction",
+          "doc_count" : 36,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان پلیسی",
+          "doc_count" : 35,
+          "theMax" : {
+            "value" : 33600.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دین و عرفان, ادعیه",
+          "doc_count" : 35,
+          "theMax" : {
+            "value" : 49000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دین و عرفان,ادعیه",
+          "doc_count" : 33,
+          "theMax" : {
+            "value" : 35000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "سبک زندگی, آشپزی",
+          "doc_count" : 33,
+          "theMax" : {
+            "value" : 50000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, تبلیغات و بازاریابی, فروش",
+          "doc_count" : 33,
+          "theMax" : {
+            "value" : 44500.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو صدای زمین",
+          "doc_count" : 33,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان آلمان",
+          "doc_count" : 32,
+          "theMax" : {
+            "value" : 54000.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "هنر,تاریخ هنر",
+          "doc_count" : 32,
+          "theMax" : {
+            "value" : 58000.0
+          },
+          "theMin" : {
+            "value" : 4750.0
+          }
+        },
+        {
+          "key" : "هنر,موسیقی",
+          "doc_count" : 31,
+          "theMax" : {
+            "value" : 150000.0
+          },
+          "theMin" : {
+            "value" : 1800.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان ترکیه",
+          "doc_count" : 30,
+          "theMax" : {
+            "value" : 68000.0
+          },
+          "theMin" : {
+            "value" : 7000.0
+          }
+        },
+        {
+          "key" : "هنر, موسیقی",
+          "doc_count" : 30,
+          "theMax" : {
+            "value" : 36000.0
+          },
+          "theMin" : {
+            "value" : 2800.0
+          }
+        },
+        {
+          "key" : "هنر, نقاشی",
+          "doc_count" : 30,
+          "theMax" : {
+            "value" : 35000.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان آسیای شرقی",
+          "doc_count" : 29,
+          "theMax" : {
+            "value" : 65000.0
+          },
+          "theMin" : {
+            "value" : 2800.0
+          }
+        },
+        {
+          "key" : "سبک زندگی, ایران‌شناسی",
+          "doc_count" : 28,
+          "theMax" : {
+            "value" : 22000.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "English Books, Biography & Autobiography, Artists, Architects, Photographers",
+          "doc_count" : 26,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Literary Collections",
+          "doc_count" : 26,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "شعر,شعر جهان",
+          "doc_count" : 26,
+          "theMax" : {
+            "value" : 35000.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "مجلات,آرشیو کتاب جمعه",
+          "doc_count" : 26,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Horror",
+          "doc_count" : 25,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Human Geography",
+          "doc_count" : 25,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان ایتالیا",
+          "doc_count" : 25,
+          "theMax" : {
+            "value" : 53000.0
+          },
+          "theMin" : {
+            "value" : 5000.0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, تبلیغات و بازاریابی, تبلیغات",
+          "doc_count" : 25,
+          "theMax" : {
+            "value" : 81900.0
+          },
+          "theMin" : {
+            "value" : 5400.0
+          }
+        },
+        {
+          "key" : "آموزش, زبان آموزی",
+          "doc_count" : 23,
+          "theMax" : {
+            "value" : 40000.0
+          },
+          "theMin" : {
+            "value" : 1900.0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان طنز",
+          "doc_count" : 22,
+          "theMax" : {
+            "value" : 32500.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Humorous",
+          "doc_count" : 21,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو بلاکچین",
+          "doc_count" : 21,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "فلسفه, دانشنامه فلسفه استنفورد",
+          "doc_count" : 20,
+          "theMax" : {
+            "value" : 55000.0
+          },
+          "theMin" : {
+            "value" : 11000.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان مذهبی",
+          "doc_count" : 19,
+          "theMax" : {
+            "value" : 40000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, تبلیغات و بازاریابی, برندینگ",
+          "doc_count" : 19,
+          "theMax" : {
+            "value" : 44000.0
+          },
+          "theMin" : {
+            "value" : 1900.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو جولون",
+          "doc_count" : 19,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کتاب‌صوتی",
+          "doc_count" : 19,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "اسطوره",
+          "doc_count" : 18,
+          "theMax" : {
+            "value" : 62500.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "شعر",
+          "doc_count" : 18,
+          "theMax" : {
+            "value" : 50000.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,دیجی کالا مگ",
+          "doc_count" : 18,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, History",
+          "doc_count" : 17,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان عرب",
+          "doc_count" : 17,
+          "theMax" : {
+            "value" : 31500.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو تراولکست",
+          "doc_count" : 17,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Westerns",
+          "doc_count" : 16,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "علوم اجتماعی,علوم سیاسی",
+          "doc_count" : 16,
+          "theMax" : {
+            "value" : 77000.0
+          },
+          "theMin" : {
+            "value" : 12000.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,دیج ایمیج",
+          "doc_count" : 16,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,مسیر آفرین",
+          "doc_count" : 16,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی ,اول,آموزش قرآن",
+          "doc_count" : 15,
+          "theMax" : {
+            "value" : 11400.0
+          },
+          "theMin" : {
+            "value" : 1100.0
+          }
+        },
+        {
+          "key" : "سبک زندگی,آشپزی",
+          "doc_count" : 15,
+          "theMax" : {
+            "value" : 74000.0
+          },
+          "theMin" : {
+            "value" : 8000.0
+          }
+        },
+        {
+          "key" : "هنر, هنر کاربردی",
+          "doc_count" : 15,
+          "theMax" : {
+            "value" : 80000.0
+          },
+          "theMin" : {
+            "value" : 4750.0
+          }
+        },
+        {
+          "key" : "سبک زندگی,فرهنگ و زندگی ",
+          "doc_count" : 14,
+          "theMax" : {
+            "value" : 31000.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "مجلات,سانازسانیا",
+          "doc_count" : 14,
+          "theMax" : {
+            "value" : 45000.0
+          },
+          "theMin" : {
+            "value" : 45000.0
+          }
+        },
+        {
+          "key" : "هنر,سینما و تاتر,فیلمنامه",
+          "doc_count" : 14,
+          "theMax" : {
+            "value" : 27500.0
+          },
+          "theMin" : {
+            "value" : 4100.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,پاپریکا",
+          "doc_count" : 13,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "سبک زندگی,خانواده",
+          "doc_count" : 12,
+          "theMax" : {
+            "value" : 25000.0
+          },
+          "theMin" : {
+            "value" : 5000.0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,تبلیغات و بازاریابی,برندینگ",
+          "doc_count" : 11,
+          "theMax" : {
+            "value" : 273000.0
+          },
+          "theMin" : {
+            "value" : 2500.0
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,تبلیغات و بازاریابی,تبلیغات",
+          "doc_count" : 11,
+          "theMax" : {
+            "value" : 273000.0
+          },
+          "theMin" : {
+            "value" : 11500.0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Occult",
+          "doc_count" : 10,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Thrillers",
+          "doc_count" : 10,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,مدیریت",
+          "doc_count" : 10,
+          "theMax" : {
+            "value" : 73000.0
+          },
+          "theMin" : {
+            "value" : 19000.0
+          }
+        },
+        {
+          "key" : "فلسفه,دانشنامه فلسفه استنفورد",
+          "doc_count" : 10,
+          "theMax" : {
+            "value" : 31000.0
+          },
+          "theMin" : {
+            "value" : 19000.0
+          }
+        },
+        {
+          "key" : "مجلات",
+          "doc_count" : 10,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Fairy Tales, Folklore & Mythology",
+          "doc_count" : 9,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان عرب",
+          "doc_count" : 9,
+          "theMax" : {
+            "value" : 48000.0
+          },
+          "theMin" : {
+            "value" : 4800.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان طنز",
+          "doc_count" : 9,
+          "theMax" : {
+            "value" : 32000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی عمران",
+          "doc_count" : 9,
+          "theMax" : {
+            "value" : 130000.0
+          },
+          "theMin" : {
+            "value" : 10000.0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان عاشقانه",
+          "doc_count" : 8,
+          "theMax" : {
+            "value" : 150000.0
+          },
+          "theMin" : {
+            "value" : 8000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه زبان و ادبیات,انگلیسی",
+          "doc_count" : 8,
+          "theMax" : {
+            "value" : 15000.0
+          },
+          "theMin" : {
+            "value" : 15000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی برق",
+          "doc_count" : 8,
+          "theMax" : {
+            "value" : 79000.0
+          },
+          "theMin" : {
+            "value" : 35000.0
+          }
+        },
+        {
+          "key" : "سبک زندگی,ایران‌شناسی",
+          "doc_count" : 8,
+          "theMax" : {
+            "value" : 32500.0
+          },
+          "theMin" : {
+            "value" : 2500.0
+          }
+        },
+        {
+          "key" : "متون کلاسیک فارسی",
+          "doc_count" : 8,
+          "theMax" : {
+            "value" : 12000.0
+          },
+          "theMin" : {
+            "value" : 8000.0
+          }
+        },
+        {
+          "key" : "مجلات,آشپزی مثبت",
+          "doc_count" : 8,
+          "theMax" : {
+            "value" : 3000.0
+          },
+          "theMin" : {
+            "value" : 2500.0
+          }
+        },
+        {
+          "key" : "دین و عرفان,مذهبی,کتاب های محرم",
+          "doc_count" : 7,
+          "theMax" : {
+            "value" : 60000.0
+          },
+          "theMin" : {
+            "value" : 4000.0
+          }
+        },
+        {
+          "key" : "مجلات,مجله کسب و کار هاروارد",
+          "doc_count" : 7,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "آموزش, علوم کامپیوتر",
+          "doc_count" : 6,
+          "theMax" : {
+            "value" : 35000.0
+          },
+          "theMin" : {
+            "value" : 1800.0
+          }
+        },
+        {
+          "key" : "داستان و رمان",
+          "doc_count" : 6,
+          "theMax" : {
+            "value" : 24000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان مذهبی",
+          "doc_count" : 6,
+          "theMax" : {
+            "value" : 24000.0
+          },
+          "theMin" : {
+            "value" : 8000.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان تاریخی",
+          "doc_count" : 6,
+          "theMax" : {
+            "value" : 28000.0
+          },
+          "theMin" : {
+            "value" : 11000.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان فانتزی",
+          "doc_count" : 6,
+          "theMax" : {
+            "value" : 34000.0
+          },
+          "theMin" : {
+            "value" : 10800.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم ورزشی",
+          "doc_count" : 6,
+          "theMax" : {
+            "value" : 109000.0
+          },
+          "theMin" : {
+            "value" : 18000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,فناوری های نوین",
+          "doc_count" : 6,
+          "theMax" : {
+            "value" : 39000.0
+          },
+          "theMin" : {
+            "value" : 25000.0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو مرز",
+          "doc_count" : 6,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,نیمه شب",
+          "doc_count" : 6,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Poetry",
+          "doc_count" : 5,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, History, Africa",
+          "doc_count" : 5,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Non-Fiction",
+          "doc_count" : 5,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,مدیریت بازاریابی و بازرگانی",
+          "doc_count" : 5,
+          "theMax" : {
+            "value" : 88000.0
+          },
+          "theMin" : {
+            "value" : 22000.0
+          }
+        },
+        {
+          "key" : "علوم اجتماعی,ارتباطات و رسانه",
+          "doc_count" : 5,
+          "theMax" : {
+            "value" : 38000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو میکس بار",
+          "doc_count" : 5,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Travel, Africa",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور), دکتری, مدیریت",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 34000.0
+          },
+          "theMin" : {
+            "value" : 6000.0
+          }
+        },
+        {
+          "key" : "تاریخ, مشاهیر",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 5000.0
+          },
+          "theMin" : {
+            "value" : 5000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی , گروه علوم انسانی, حقوق",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 21000.0
+          },
+          "theMin" : {
+            "value" : 14000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,اقتصاد",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 153000.0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی مکانیک",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 65000.0
+          },
+          "theMin" : {
+            "value" : 28000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه پزشکی,پزشکی",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 99000.0
+          },
+          "theMin" : {
+            "value" : 33000.0
+          }
+        },
+        {
+          "key" : "مجلات,سیب سبز",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 2500.0
+          },
+          "theMin" : {
+            "value" : 2500.0
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه منزل",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 3000.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "مجلات,چشمه‌خوان",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,خانه‌های من",
+          "doc_count" : 4,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Social Science, Anthropology",
+          "doc_count" : 3,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "دانشگاهی , گروه علوم انسانی, جامعه شناسی",
+          "doc_count" : 3,
+          "theMax" : {
+            "value" : 12000.0
+          },
+          "theMin" : {
+            "value" : 6800.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,مدیریت جهانگردی",
+          "doc_count" : 3,
+          "theMax" : {
+            "value" : 40000.0
+          },
+          "theMin" : {
+            "value" : 28000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه هنر,طراحی",
+          "doc_count" : 3,
+          "theMax" : {
+            "value" : 50000.0
+          },
+          "theMin" : {
+            "value" : 26000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه پزشکی,پرستاری",
+          "doc_count" : 3,
+          "theMax" : {
+            "value" : 56000.0
+          },
+          "theMin" : {
+            "value" : 20000.0
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی ",
+          "doc_count" : 3,
+          "theMax" : {
+            "value" : 9000.0
+          },
+          "theMin" : {
+            "value" : 2250.0
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی ,اول,فارسی",
+          "doc_count" : 3,
+          "theMax" : {
+            "value" : 6900.0
+          },
+          "theMin" : {
+            "value" : 6900.0
+          }
+        },
+        {
+          "key" : "مجلات,زندگی ایده‌آل",
+          "doc_count" : 3,
+          "theMax" : {
+            "value" : 3000.0
+          },
+          "theMin" : {
+            "value" : 3000.0
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه خط‌خطی",
+          "doc_count" : 3,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مجلات,هفته نامه شنبه",
+          "doc_count" : 3,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,پرچم سفید",
+          "doc_count" : 3,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Business & Economics, Accounting",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Children's Literature",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, War & Military",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Free Books",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Humor, Form",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books,Audio Books",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),دکتری,طراحی",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 130000.0
+          },
+          "theMin" : {
+            "value" : 85000.0
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),سایر,استخدامی",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 39000.0
+          },
+          "theMin" : {
+            "value" : 28000.0
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان پلیسی",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 38000.0
+          },
+          "theMin" : {
+            "value" : 27000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 9000.0
+          },
+          "theMin" : {
+            "value" : 7200.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,علوم آموزشی",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 48000.0
+          },
+          "theMin" : {
+            "value" : 25000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه هنر,معماری",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 55000.0
+          },
+          "theMin" : {
+            "value" : 47500.0
+          }
+        },
+        {
+          "key" : "مجلات,دو هفته نامه موفقیت",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 2000.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "مجلات,نسل برتر",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو مذاکیار",
+          "doc_count" : 2,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Biographical",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Christian",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Espionage",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Fairy Tales, Folklore & Mythology 2",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Gothic",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Literary Collections, African",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "English Books, Science & Technology",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),دکتری,فناوری های نوین",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 60000.0
+          },
+          "theMin" : {
+            "value" : 60000.0
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),دکتری,مدیریت جهانگردی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 65000.0
+          },
+          "theMin" : {
+            "value" : 65000.0
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),کارشناسی ارشد,اقتصاد",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 69000.0
+          },
+          "theMin" : {
+            "value" : 69000.0
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),کارشناسی ارشد,فناوری های نوین",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 29000.0
+          },
+          "theMin" : {
+            "value" : 29000.0
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),کارشناسی ارشد,مدیریت",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 200000.0
+          },
+          "theMin" : {
+            "value" : 200000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی , ادبیات و علوم انسانی, تاریخ",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 12000.0
+          },
+          "theMin" : {
+            "value" : 12000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی , ادبیات و علوم انسانی, فلسفه",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 10000.0
+          },
+          "theMin" : {
+            "value" : 10000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی , الهیات و معارف اسلامی , علوم قرآن و حدیث",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 11500.0
+          },
+          "theMin" : {
+            "value" : 11500.0
+          }
+        },
+        {
+          "key" : "دانشگاهی , الهیات و معارف اسلامی , فلسفه و حکمت اسلامی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 10000.0
+          },
+          "theMin" : {
+            "value" : 10000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی , حقوق و علوم سیاسی, جزا و جرم‌شناسی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 45000.0
+          },
+          "theMin" : {
+            "value" : 45000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی , حقوق و علوم سیاسی, حقوق عمومی ",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 10000.0
+          },
+          "theMin" : {
+            "value" : 10000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی , علوم اجتماعی و رفتاری, علوم اجتماعی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 12000.0
+          },
+          "theMin" : {
+            "value" : 12000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی , علوم اجتماعی و رفتاری, مدیریت",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 4500.0
+          },
+          "theMin" : {
+            "value" : 4500.0
+          }
+        },
+        {
+          "key" : "دانشگاهی , هنر, معماری",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 8400.0
+          },
+          "theMin" : {
+            "value" : 8400.0
+          }
+        },
+        {
+          "key" : "دانشگاهی , گروه علوم انسانی, روانشناسی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 16200.0
+          },
+          "theMin" : {
+            "value" : 16200.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,فنی و مهندسی ,مهندسی برق و کامپیوتر",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 41000.0
+          },
+          "theMin" : {
+            "value" : 41000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه زبان و ادبیات,آلمانی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 50000.0
+          },
+          "theMin" : {
+            "value" : 50000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه زبان و ادبیات,زبان و ادبیات فارسی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 6000.0
+          },
+          "theMin" : {
+            "value" : 6000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,الهیات",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 30000.0
+          },
+          "theMin" : {
+            "value" : 30000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,تاریخ",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 10000.0
+          },
+          "theMin" : {
+            "value" : 10000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,جامعه شناسی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 9000.0
+          },
+          "theMin" : {
+            "value" : 9000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم پایه,زمین شناسی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 10200.0
+          },
+          "theMin" : {
+            "value" : 10200.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم پایه,شیمی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 5500.0
+          },
+          "theMin" : {
+            "value" : 5500.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی شیمی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 11000.0
+          },
+          "theMin" : {
+            "value" : 11000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی مواد",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 77000.0
+          },
+          "theMin" : {
+            "value" : 77000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه هنر,طراحی صنعتی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 78000.0
+          },
+          "theMin" : {
+            "value" : 78000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه هنر,موسیقی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 4200.0
+          },
+          "theMin" : {
+            "value" : 4200.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه هنر,نقاشی ",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 27000.0
+          },
+          "theMin" : {
+            "value" : 27000.0
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه کشاورزی,مهندسی مکانیک ماشین آلات کشاورزی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 20000.0
+          },
+          "theMin" : {
+            "value" : 20000.0
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی , پیش دبستانی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 10000.0
+          },
+          "theMin" : {
+            "value" : 10000.0
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی ,اول,املا",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 16000.0
+          },
+          "theMin" : {
+            "value" : 16000.0
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی ,دوازدهم,فیزیک",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 12000.0
+          },
+          "theMin" : {
+            "value" : 12000.0
+          }
+        },
+        {
+          "key" : "مجلات, هفته نامه فیدیبو",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مجلات,دولت یار",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مجلات,دوهفته‌نامه راز,فروش ویژه‌ نوروزی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 2000.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "مجلات,روبرو",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مجلات,سرآشپز",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 2000.0
+          },
+          "theMin" : {
+            "value" : 2000.0
+          }
+        },
+        {
+          "key" : "مجلات,فصلنامه نهج البلاغه",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه بازاریاب بازارساز",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه رام",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه شبکه",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه نجوم",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 5000.0
+          },
+          "theMin" : {
+            "value" : 5000.0
+          }
+        },
+        {
+          "key" : "مجلات,معماری سبز",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مجلات,پژوهش در هنر و علوم انسانی",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مجلات,پژوهش‌های نوین",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "مجلات,گاهنامه ققنوس",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,استرینگ کست",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو دایجست",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,سبکتو",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,گروه هنری تاپ آرت",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کتاب‌های رایگان , دیجی‌کالا مگ",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 0
+          },
+          "theMin" : {
+            "value" : 0
+          }
+        },
+        {
+          "key" : "کلام، فرق و ادیان, پیامبران، امامان، مشاهیر",
+          "doc_count" : 1,
+          "theMax" : {
+            "value" : 7000.0
+          },
+          "theMin" : {
+            "value" : 7000.0
+          }
+        }
+      ]
+    }
+  }

@@ -1,0 +1,16 @@
+  "aggregations" : {
+    "narr" : {
+      "doc_count_error_upper_bound" : 0,
+      "sum_other_doc_count" : 4817,
+      "buckets" : [
+        {
+          "key" : "--",
+          "doc_count" : 26652
+        },
+        {
+          "key" : "دادبه دادمهر",
+          "doc_count" : 163
+        }
+      ]
+    }
+  }
