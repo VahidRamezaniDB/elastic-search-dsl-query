@@ -1,0 +1,5839 @@
+ "aggregations" : {
+    "categories" : {
+      "doc_count_error_upper_bound" : 0,
+      "sum_other_doc_count" : 0,
+      "buckets" : [
+        {
+          "key" : "کودک",
+          "doc_count" : 4386,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 4239,
+            "buckets" : [
+              {
+                "key" : "داریوش صادقی",
+                "doc_count" : 57
+              },
+              {
+                "key" : "استن برنستین",
+                "doc_count" : 46
+              },
+              {
+                "key" : "ود پراکاش چاولا",
+                "doc_count" : 44
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی,انگیزشی و موفقیت",
+          "doc_count" : 1196,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1015,
+            "buckets" : [
+              {
+                "key" : "برایان تریسی",
+                "doc_count" : 101
+              },
+              {
+                "key" : "دارن هاردی",
+                "doc_count" : 45
+              },
+              {
+                "key" : "مارک ویکتور هانسن",
+                "doc_count" : 35
+              }
+            ]
+          }
+        },
+        {
+          "key" : "نوجوان",
+          "doc_count" : 1165,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1075,
+            "buckets" : [
+              {
+                "key" : "آرتور کانن دويل",
+                "doc_count" : 34
+              },
+              {
+                "key" : "کیت مک‌مولان",
+                "doc_count" : 29
+              },
+              {
+                "key" : "دن گاتمن",
+                "doc_count" : 27
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی,خودشناسی و خودسازی",
+          "doc_count" : 1088,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 926,
+            "buckets" : [
+              {
+                "key" : "جول اوستین",
+                "doc_count" : 106
+              },
+              {
+                "key" : "محمد جولایی تهرانی,موسی زمان‌زاده‌دربان",
+                "doc_count" : 36
+              },
+              {
+                "key" : "دبی فورد",
+                "doc_count" : 20
+              }
+            ]
+          }
+        },
+        {
+          "key" : "فلسفه",
+          "doc_count" : 938,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 906,
+            "buckets" : [
+              {
+                "key" : "مرتضی مطهری",
+                "doc_count" : 14
+              },
+              {
+                "key" : "جون‌ ا. پرایس",
+                "doc_count" : 10
+              },
+              {
+                "key" : "آلن دوباتن",
+                "doc_count" : 8
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی, انگیزشی و موفقیت",
+          "doc_count" : 893,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 791,
+            "buckets" : [
+              {
+                "key" : "برایان تریسی",
+                "doc_count" : 60
+              },
+              {
+                "key" : "دارن هاردی",
+                "doc_count" : 21
+              },
+              {
+                "key" : "رضا یادگاری, مهشید سنایی‌فرد",
+                "doc_count" : 21
+              }
+            ]
+          }
+        },
+        {
+          "key" : "شعر, شعر ایران, شعر معاصر",
+          "doc_count" : 760,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 736,
+            "buckets" : [
+              {
+                "key" : "احمد شاملو",
+                "doc_count" : 10
+              },
+              {
+                "key" : "احمدرضا احمدی",
+                "doc_count" : 8
+              },
+              {
+                "key" : "پروین اعتصامی",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان ایرانی",
+          "doc_count" : 748,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 705,
+            "buckets" : [
+              {
+                "key" : "محمود دولت‌آبادی",
+                "doc_count" : 24
+              },
+              {
+                "key" : "بلقیس سلیمانی",
+                "doc_count" : 10
+              },
+              {
+                "key" : "جلال آل‌احمد",
+                "doc_count" : 9
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر, سینما و تاتر, نمایشنامه",
+          "doc_count" : 735,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 673,
+            "buckets" : [
+              {
+                "key" : "هنریک ایبسن",
+                "doc_count" : 23
+              },
+              {
+                "key" : "اکبر رادی",
+                "doc_count" : 22
+              },
+              {
+                "key" : "ویلیام شکسپیر",
+                "doc_count" : 17
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان آمریکا",
+          "doc_count" : 681,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 640,
+            "buckets" : [
+              {
+                "key" : "ارنست همینگوی",
+                "doc_count" : 16
+              },
+              {
+                "key" : "میچ آلبوم",
+                "doc_count" : 14
+              },
+              {
+                "key" : "استیفن کینگ",
+                "doc_count" : 11
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دین و عرفان",
+          "doc_count" : 640,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 541,
+            "buckets" : [
+              {
+                "key" : "مرتضی مطهری",
+                "doc_count" : 46
+              },
+              {
+                "key" : "اصغر طاهرزاده",
+                "doc_count" : 28
+              },
+              {
+                "key" : "امام موسی صدر",
+                "doc_count" : 25
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی, خودشناسی و خودسازی",
+          "doc_count" : 617,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 589,
+            "buckets" : [
+              {
+                "key" : "دبی فورد",
+                "doc_count" : 12
+              },
+              {
+                "key" : "برایان تریسی",
+                "doc_count" : 8
+              },
+              {
+                "key" : "مارک منسون",
+                "doc_count" : 8
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان انگلیس",
+          "doc_count" : 585,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 492,
+            "buckets" : [
+              {
+                "key" : "آگاتا کریستی",
+                "doc_count" : 43
+              },
+              {
+                "key" : "جوجو مویز",
+                "doc_count" : 31
+              },
+              {
+                "key" : "جورج اورول‌",
+                "doc_count" : 19
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دین و عرفان, مذهبی, علوم قرآنی",
+          "doc_count" : 518,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 453,
+            "buckets" : [
+              {
+                "key" : "فرزانه زنبقی",
+                "doc_count" : 30
+              },
+              {
+                "key" : "مرتضی مطهری",
+                "doc_count" : 20
+              },
+              {
+                "key" : "امام موسی صدر",
+                "doc_count" : 15
+              }
+            ]
+          }
+        },
+        {
+          "key" : "علمی,دانش",
+          "doc_count" : 507,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 476,
+            "buckets" : [
+              {
+                "key" : "وحیدرضا اخباری",
+                "doc_count" : 16
+              },
+              {
+                "key" : "صمد غلامی",
+                "doc_count" : 10
+              },
+              {
+                "key" : "آنا کلی بورنه",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "تاریخ",
+          "doc_count" : 457,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 431,
+            "buckets" : [
+              {
+                "key" : "دان ناردو",
+                "doc_count" : 13
+              },
+              {
+                "key" : "برندا هاوگن",
+                "doc_count" : 7
+              },
+              {
+                "key" : "سید مرتضی آوینی",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان ایرانی",
+          "doc_count" : 377,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 308,
+            "buckets" : [
+              {
+                "key" : "صادق هدایت",
+                "doc_count" : 26
+              },
+              {
+                "key" : "شرمین نادری",
+                "doc_count" : 22
+              },
+              {
+                "key" : " صمد بهرنگی",
+                "doc_count" : 21
+              }
+            ]
+          }
+        },
+        {
+          "key" : "میکروبوک",
+          "doc_count" : 367,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 343,
+            "buckets" : [
+              {
+                "key" : "ویلیام دویل جنتری",
+                "doc_count" : 9
+              },
+              {
+                "key" : "دبورا تیلور هاف",
+                "doc_count" : 8
+              },
+              {
+                "key" : "برایان تریسی",
+                "doc_count" : 7
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آموزش",
+          "doc_count" : 362,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 307,
+            "buckets" : [
+              {
+                "key" : "داریوش صادقی",
+                "doc_count" : 40
+              },
+              {
+                "key" : "هیات مولفان",
+                "doc_count" : 8
+              },
+              {
+                "key" : "احسان مظلومی",
+                "doc_count" : 7
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی, روابط خانوادگی",
+          "doc_count" : 347,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 334,
+            "buckets" : [
+              {
+                "key" : "باربارا دی آنجلیس",
+                "doc_count" : 6
+              },
+              {
+                "key" : "مایکلین ماندی",
+                "doc_count" : 4
+              },
+              {
+                "key" : "الیزابت پنتلی",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی, سلامت و رژیم درمانی",
+          "doc_count" : 347,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 319,
+            "buckets" : [
+              {
+                "key" : "حسین میرحیدر",
+                "doc_count" : 10
+              },
+              {
+                "key" : "س. صداقت",
+                "doc_count" : 10
+              },
+              {
+                "key" : "آنجلی آرورا",
+                "doc_count" : 8
+              }
+            ]
+          }
+        },
+        {
+          "key" : "شعر, شعر ایران, شعر کهن",
+          "doc_count" : 340,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 313,
+            "buckets" : [
+              {
+                "key" : "سید‌محمد دبیر سیاقی",
+                "doc_count" : 16
+              },
+              {
+                "key" : "محمد دهقانی",
+                "doc_count" : 6
+              },
+              {
+                "key" : "عباس زريری‌اصفهانی",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر, سینما و تاتر, دور تا دور دنیا نمایشنامه",
+          "doc_count" : 332,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 317,
+            "buckets" : [
+              {
+                "key" : "سید مرتضی آوینی",
+                "doc_count" : 5
+              },
+              {
+                "key" : "علی افصحی",
+                "doc_count" : 5
+              },
+              {
+                "key" : "محمد چرم‌شیر",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آموزش,علوم کامپیوتر",
+          "doc_count" : 307,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 283,
+            "buckets" : [
+              {
+                "key" : "علی محمودی",
+                "doc_count" : 14
+              },
+              {
+                "key" : "آزاده لونی",
+                "doc_count" : 5
+              },
+              {
+                "key" : "رمضان عباس‌نژادورزی",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی, روانکاوی",
+          "doc_count" : 305,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 288,
+            "buckets" : [
+              {
+                "key" : "زیگموند فروید",
+                "doc_count" : 8
+              },
+              {
+                "key" : "دبی فورد",
+                "doc_count" : 5
+              },
+              {
+                "key" : "اروین یالوم",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "حقوق",
+          "doc_count" : 303,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 260,
+            "buckets" : [
+              {
+                "key" : "دیوان‌ عالی‌ کشور",
+                "doc_count" : 26
+              },
+              {
+                "key" : "پژوهشگاه قوه قضائیه",
+                "doc_count" : 12
+              },
+              {
+                "key" : "علی رزمان",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "اقتصاد",
+          "doc_count" : 294,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 266,
+            "buckets" : [
+              {
+                "key" : "موریس آلتمن",
+                "doc_count" : 21
+              },
+              {
+                "key" : "وحید طبایی",
+                "doc_count" : 4
+              },
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "علمی",
+          "doc_count" : 279,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 219,
+            "buckets" : [
+              {
+                "key" : "استرینگ کست",
+                "doc_count" : 40
+              },
+              {
+                "key" : "پل استراترن",
+                "doc_count" : 10
+              },
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 10
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی",
+          "doc_count" : 277,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 259,
+            "buckets" : [
+              {
+                "key" : "خانه‌های من",
+                "doc_count" : 11
+              },
+              {
+                "key" : "وین دایر",
+                "doc_count" : 4
+              },
+              {
+                "key" : "اندرو متیوس",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی, روابط اجتماعی",
+          "doc_count" : 269,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 258,
+            "buckets" : [
+              {
+                "key" : "مارشال روزنبرگ",
+                "doc_count" : 5
+              },
+              {
+                "key" : "برایان تریسی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "دیل کارنگی",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,کارآفرینی و کسب و کار",
+          "doc_count" : 261,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 240,
+            "buckets" : [
+              {
+                "key" : "آدام تورن,متیو تورن",
+                "doc_count" : 7
+              },
+              {
+                "key" : "علی اکبری",
+                "doc_count" : 7
+              },
+              {
+                "key" : "مریم قریشی",
+                "doc_count" : 7
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان فرانسه",
+          "doc_count" : 241,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 199,
+            "buckets" : [
+              {
+                "key" : "آلبر  کامو",
+                "doc_count" : 16
+              },
+              {
+                "key" : "آنا گاوالدا",
+                "doc_count" : 14
+              },
+              {
+                "key" : "گیوم موسو",
+                "doc_count" : 12
+              }
+            ]
+          }
+        },
+        {
+          "key" : "تاریخ,  تاریخ جهان",
+          "doc_count" : 236,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 216,
+            "buckets" : [
+              {
+                "key" : "دان ناردو",
+                "doc_count" : 11
+              },
+              {
+                "key" : "کریستین ژاک",
+                "doc_count" : 5
+              },
+              {
+                "key" : "سوتلانا آلکساندرونا الکسیویچ",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "علوم اجتماعی",
+          "doc_count" : 234,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 218,
+            "buckets" : [
+              {
+                "key" : "چنل بی",
+                "doc_count" : 7
+              },
+              {
+                "key" : "حمیدرضا صدر",
+                "doc_count" : 5
+              },
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "تاریخ, تاریخ معاصر",
+          "doc_count" : 225,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 197,
+            "buckets" : [
+              {
+                "key" : "یعقوب ضاهر",
+                "doc_count" : 12
+              },
+              {
+                "key" : "داود علی‌بابایی",
+                "doc_count" : 9
+              },
+              {
+                "key" : "علینقی عالیخانی",
+                "doc_count" : 7
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان کوتاه",
+          "doc_count" : 213,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 200,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 6
+              },
+              {
+                "key" : "شرمین نادری",
+                "doc_count" : 4
+              },
+              {
+                "key" : "آنتوان چخوف",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "شعر,شعر ایران,شعر معاصر",
+          "doc_count" : 209,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 188,
+            "buckets" : [
+              {
+                "key" : "محسن حافظی کاشانی",
+                "doc_count" : 10
+              },
+              {
+                "key" : "آیدا قاسمی,اعظم ایزد پناه,مهدی یوسفی",
+                "doc_count" : 7
+              },
+              {
+                "key" : "حمیدرضا وطن‌خواه",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "علوم اجتماعی, علوم سیاسی",
+          "doc_count" : 198,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 187,
+            "buckets" : [
+              {
+                "key" : "صادق زیباکلام",
+                "doc_count" : 5
+              },
+              {
+                "key" : "باراک اوباما",
+                "doc_count" : 3
+              },
+              {
+                "key" : "حسین بشیریه",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی, خانواده",
+          "doc_count" : 194,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 183,
+            "buckets" : [
+              {
+                "key" : "بریژیت لابه, میشل پوئش",
+                "doc_count" : 4
+              },
+              {
+                "key" : "گری چاپمن",
+                "doc_count" : 4
+              },
+              {
+                "key" : "احمد پدرام",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی,روابط خانوادگی",
+          "doc_count" : 193,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 164,
+            "buckets" : [
+              {
+                "key" : "جان گری",
+                "doc_count" : 15
+              },
+              {
+                "key" : "باربارا دی آنجلیس",
+                "doc_count" : 9
+              },
+              {
+                "key" : "فرهنگ هلاکویی",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کمیک‌های رایگان",
+          "doc_count" : 190,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 106,
+            "buckets" : [
+              {
+                "key" : "مارول",
+                "doc_count" : 61
+              },
+              {
+                "key" : "برایان مایکل بندیس",
+                "doc_count" : 12
+              },
+              {
+                "key" : "جف جانز",
+                "doc_count" : 11
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, کارآفرینی و کسب و کار",
+          "doc_count" : 186,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 177,
+            "buckets" : [
+              {
+                "key" : "برایان تریسی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "نرگس شفیعی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "پرویز درگی",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "تاریخ, تاریخ کهن",
+          "doc_count" : 180,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 169,
+            "buckets" : [
+              {
+                "key" : "ابن ابی‌الحدید",
+                "doc_count" : 4
+              },
+              {
+                "key" : "دان ناردو",
+                "doc_count" : 4
+              },
+              {
+                "key" : "حمید اشرفی",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان آمریکا",
+          "doc_count" : 179,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 155,
+            "buckets" : [
+              {
+                "key" : "ارنست همینگوی",
+                "doc_count" : 11
+              },
+              {
+                "key" : "میچ آلبوم",
+                "doc_count" : 7
+              },
+              {
+                "key" : "جان اشتاین بک",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی,سلامت و رژیم درمانی",
+          "doc_count" : 171,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 154,
+            "buckets" : [
+              {
+                "key" : "خشایار فخریان",
+                "doc_count" : 8
+              },
+              {
+                "key" : "امید رجبی کبود‌چشمه,لیلا الیاسی",
+                "doc_count" : 6
+              },
+              {
+                "key" : "صادق هدایت",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان سایر کشورها",
+          "doc_count" : 170,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 137,
+            "buckets" : [
+              {
+                "key" : "فردریک بکمن",
+                "doc_count" : 17
+              },
+              {
+                "key" : "ژوزه ساراماگو",
+                "doc_count" : 9
+              },
+              {
+                "key" : "شاری لاپنا",
+                "doc_count" : 7
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان انگلیس",
+          "doc_count" : 160,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 130,
+            "buckets" : [
+              {
+                "key" : "جی.آر.آر. تالکین",
+                "doc_count" : 11
+              },
+              {
+                "key" : "جورج اورول‌",
+                "doc_count" : 10
+              },
+              {
+                "key" : "ایان وای‌برو",
+                "doc_count" : 9
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دین و عرفان, عرفان",
+          "doc_count" : 150,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 140,
+            "buckets" : [
+              {
+                "key" : "کریشنا مورتی",
+                "doc_count" : 4
+              },
+              {
+                "key" : "جبران خليل جبران‌",
+                "doc_count" : 3
+              },
+              {
+                "key" : "علامه محمدتقی جعفری‌",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "زندگی‌نامه ، سفرنامه و خاطرات",
+          "doc_count" : 145,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 138,
+            "buckets" : [
+              {
+                "key" : "علی‌بمان ملک‌احمدی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "آنتوان دو سنت اگزوپری‌",
+                "doc_count" : 2
+              },
+              {
+                "key" : "جیمز باکلی جونیور",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دین و عرفان,عرفان",
+          "doc_count" : 144,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 57,
+            "buckets" : [
+              {
+                "key" : "حسین‌ الهی‌ قمشه‌ای",
+                "doc_count" : 79
+              },
+              {
+                "key" : "ابوالحسن علی بن حسن زواره‌ای",
+                "doc_count" : 5
+              },
+              {
+                "key" : "محمدبن‌علی‌بن شهرآشوب المازندرانی السروی",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, تبلیغات و بازاریابی, بازاریابی",
+          "doc_count" : 144,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 135,
+            "buckets" : [
+              {
+                "key" : "پرویز درگی",
+                "doc_count" : 5
+              },
+              {
+                "key" : "ال ریس, جک تروت",
+                "doc_count" : 2
+              },
+              {
+                "key" : "ایوان ستیاوان, فیلیپ کاتلر, هرماوان کارتاجایا",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, مدیریت استراتژیک",
+          "doc_count" : 144,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 136,
+            "buckets" : [
+              {
+                "key" : "مجتبی لشکربلوکی",
+                "doc_count" : 4
+              },
+              {
+                "key" : "احسان نامدارجویمی, داود سلمانی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "ادوارد راسل ـ والينگ",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Romance",
+          "doc_count" : 138,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 112,
+            "buckets" : [
+              {
+                "key" : "Charles Dickens",
+                "doc_count" : 10
+              },
+              {
+                "key" : "Lucy Maud Montgomery",
+                "doc_count" : 8
+              },
+              {
+                "key" : "Thomas Hardy",
+                "doc_count" : 8
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آموزش,زبان آموزی",
+          "doc_count" : 138,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 114,
+            "buckets" : [
+              {
+                "key" : "علیرضا معتمد",
+                "doc_count" : 12
+              },
+              {
+                "key" : "حسن اشرف‌الکتابی",
+                "doc_count" : 6
+              },
+              {
+                "key" : "مهری سروش",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "علمی,تکنولوژی",
+          "doc_count" : 134,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 124,
+            "buckets" : [
+              {
+                "key" : "معاونت دولت الکترونیکی سازمان فناوری اطلاعات ایران",
+                "doc_count" : 5
+              },
+              {
+                "key" : "علی زمردی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "اصغر اسکندرلو",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کتاب‌های رایگان ",
+          "doc_count" : 132,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 76,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 32
+              },
+              {
+                "key" : "فیدیبو",
+                "doc_count" : 13
+              },
+              {
+                "key" : "دی. سی کمیک,مارول",
+                "doc_count" : 11
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, رهبری",
+          "doc_count" : 131,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 113,
+            "buckets" : [
+              {
+                "key" : "دیدیه نویه",
+                "doc_count" : 7
+              },
+              {
+                "key" : "سایمون سینک",
+                "doc_count" : 7
+              },
+              {
+                "key" : "برایان تریسی",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "شعر, شعر جهان",
+          "doc_count" : 129,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 117,
+            "buckets" : [
+              {
+                "key" : "شل سيلور استاين",
+                "doc_count" : 5
+              },
+              {
+                "key" : "پابلو نرودا",
+                "doc_count" : 4
+              },
+              {
+                "key" : "نزار قبانی",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "شعر,شعر ایران,شعر کهن",
+          "doc_count" : 129,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 79,
+            "buckets" : [
+              {
+                "key" : "حکیم ابوالقاسم فردوسی",
+                "doc_count" : 23
+              },
+              {
+                "key" : "حسین‌ الهی‌ قمشه‌ای",
+                "doc_count" : 17
+              },
+              {
+                "key" : "مولانا جلال‌الدین محمدبلخی",
+                "doc_count" : 10
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر, سینما و تاتر, فیلمنامه",
+          "doc_count" : 129,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 119,
+            "buckets" : [
+              {
+                "key" : "بهزاد بهزادپور",
+                "doc_count" : 4
+              },
+              {
+                "key" : "رحیم کریم‌زاده",
+                "doc_count" : 3
+              },
+              {
+                "key" : "وودی آلن",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دین و عرفان,مذهبی,علوم قرآنی",
+          "doc_count" : 123,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 83,
+            "buckets" : [
+              {
+                "key" : "ابن ابی الحدید معتزلی",
+                "doc_count" : 19
+              },
+              {
+                "key" : "مهدی آیت‌الهی",
+                "doc_count" : 14
+              },
+              {
+                "key" : "سید مجتبی حسینی",
+                "doc_count" : 7
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی کامپیوتر",
+          "doc_count" : 119,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 109,
+            "buckets" : [
+              {
+                "key" : "Mikael Olsson",
+                "doc_count" : 4
+              },
+              {
+                "key" : "حمیدرضا قنبری,سجاد محمدزاده",
+                "doc_count" : 3
+              },
+              {
+                "key" : "شهرام رمضانی,فرانک عامری",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو بادیو",
+          "doc_count" : 119,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "رادیو بادیو",
+                "doc_count" : 119
+              }
+            ]
+          }
+        },
+        {
+          "key" : "تاریخ,تاریخ کهن",
+          "doc_count" : 114,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 83,
+            "buckets" : [
+              {
+                "key" : "کاظم موسوی بجنوردی",
+                "doc_count" : 18
+              },
+              {
+                "key" : "علی‌اکبر ولایتی",
+                "doc_count" : 7
+              },
+              {
+                "key" : "ذبیح‌الله صفا",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر,نقاشی",
+          "doc_count" : 112,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 61,
+            "buckets" : [
+              {
+                "key" : "پدرام حکیم‌زاده",
+                "doc_count" : 27
+              },
+              {
+                "key" : "جیووانی سیواردی",
+                "doc_count" : 17
+              },
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 7
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان آلمان",
+          "doc_count" : 111,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 89,
+            "buckets" : [
+              {
+                "key" : "هاینریش بل",
+                "doc_count" : 11
+              },
+              {
+                "key" : "فرانتس كافكا",
+                "doc_count" : 6
+              },
+              {
+                "key" : "هرتا مولر",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "تاریخ,تاریخ معاصر",
+          "doc_count" : 110,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 73,
+            "buckets" : [
+              {
+                "key" : "موسسه فرهنگی هنری قدر ولایت",
+                "doc_count" : 20
+              },
+              {
+                "key" : "موسسه فرهنگی قدر ولایت",
+                "doc_count" : 10
+              },
+              {
+                "key" : "سیدعلی خامنه‌ای",
+                "doc_count" : 7
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان کوتاه",
+          "doc_count" : 110,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 79,
+            "buckets" : [
+              {
+                "key" : "حسین‌ الهی‌ قمشه‌ای",
+                "doc_count" : 17
+              },
+              {
+                "key" : " گابریل گارسیا مارکز",
+                "doc_count" : 8
+              },
+              {
+                "key" : "زینب ایلخانی",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر,سینما و تاتر,نمایشنامه",
+          "doc_count" : 110,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 94,
+            "buckets" : [
+              {
+                "key" : "اکبر رادی",
+                "doc_count" : 7
+              },
+              {
+                "key" : "اریک امانوئل اشمیت",
+                "doc_count" : 5
+              },
+              {
+                "key" : "محمود پورشکیبایی",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر",
+          "doc_count" : 108,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 91,
+            "buckets" : [
+              {
+                "key" : "پدرام حکیم‌زاده",
+                "doc_count" : 11
+              },
+              {
+                "key" : "مرکز هنرهای تجسمی حوزه هنری",
+                "doc_count" : 4
+              },
+              {
+                "key" : "اریک کیم",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,تبلیغات و بازاریابی,بازاریابی",
+          "doc_count" : 103,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 62,
+            "buckets" : [
+              {
+                "key" : "راس هنبری,رایان دیس",
+                "doc_count" : 16
+              },
+              {
+                "key" : "اکرم امیران,حیدر امیران,زهرا امیران",
+                "doc_count" : 13
+              },
+              {
+                "key" : "حیدر امیران",
+                "doc_count" : 12
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان روسیه",
+          "doc_count" : 101,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 52,
+            "buckets" : [
+              {
+                "key" : "فئودور داستايفسكی‌",
+                "doc_count" : 34
+              },
+              {
+                "key" : "لئو تولستوی",
+                "doc_count" : 9
+              },
+              {
+                "key" : "آنتوان چخوف",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان سایر کشورها",
+          "doc_count" : 101,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 82,
+            "buckets" : [
+              {
+                "key" : "فردریک بکمن",
+                "doc_count" : 8
+              },
+              {
+                "key" : "روبرتو سانتیاگو",
+                "doc_count" : 6
+              },
+              {
+                "key" : "خالد حسینی",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,رهبری",
+          "doc_count" : 101,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 87,
+            "buckets" : [
+              {
+                "key" : "سایمون سینک",
+                "doc_count" : 5
+              },
+              {
+                "key" : "کن بلانچارد",
+                "doc_count" : 5
+              },
+              {
+                "key" : "مایک فیگلیولو",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,مدیریت استراتژیک",
+          "doc_count" : 101,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 94,
+            "buckets" : [
+              {
+                "key" : "مؤسسه بین‌المللی مدیریت پروژه PMI",
+                "doc_count" : 3
+              },
+              {
+                "key" : "بهروز محمودی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "سازمان بین‌المللی استاندارد ISO",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "تاریخ, تاریخ جهان",
+          "doc_count" : 100,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 86,
+            "buckets" : [
+              {
+                "key" : "دان ناردو",
+                "doc_count" : 9
+              },
+              {
+                "key" : "جیمز آ. کوریک",
+                "doc_count" : 3
+              },
+              {
+                "key" : "ارنست گامبریچ",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "علمی, دانش",
+          "doc_count" : 100,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 92,
+            "buckets" : [
+              {
+                "key" : "کارلو رووِلی",
+                "doc_count" : 4
+              },
+              {
+                "key" : "استیون هاوکینگ",
+                "doc_count" : 2
+              },
+              {
+                "key" : "بیل گیتس",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی,روابط اجتماعی",
+          "doc_count" : 99,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 84,
+            "buckets" : [
+              {
+                "key" : "امیلی پست",
+                "doc_count" : 6
+              },
+              {
+                "key" : "پم بریتون ریس,نینا سی. چلنر",
+                "doc_count" : 5
+              },
+              {
+                "key" : "احسان عبدالباقی",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان فانتزی",
+          "doc_count" : 94,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 69,
+            "buckets" : [
+              {
+                "key" : "ريك ريردان",
+                "doc_count" : 11
+              },
+              {
+                "key" : "جرج ر.ر.مارتین",
+                "doc_count" : 8
+              },
+              {
+                "key" : "براندون مول",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان فرانسه",
+          "doc_count" : 89,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 69,
+            "buckets" : [
+              {
+                "key" : "ژول ورن",
+                "doc_count" : 9
+              },
+              {
+                "key" : "آنا گاوالدا",
+                "doc_count" : 6
+              },
+              {
+                "key" : "اونوره دو بالزاک",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "ادبیات و نقد ادبی",
+          "doc_count" : 86,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 70,
+            "buckets" : [
+              {
+                "key" : "ذبیح‌الله صفا",
+                "doc_count" : 6
+              },
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 6
+              },
+              {
+                "key" : "محمد سودی بوسنوی",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Action & Adventure",
+          "doc_count" : 83,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 57,
+            "buckets" : [
+              {
+                "key" : "Jules Verne",
+                "doc_count" : 14
+              },
+              {
+                "key" : "Alexandre Dumas",
+                "doc_count" : 7
+              },
+              {
+                "key" : "Baroness Emma Orczy",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "علمی, تکنولوژی",
+          "doc_count" : 83,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 78,
+            "buckets" : [
+              {
+                "key" : "بایرون ریسه",
+                "doc_count" : 2
+              },
+              {
+                "key" : "جولی ریچاردز",
+                "doc_count" : 2
+              },
+              {
+                "key" : " آنانت جوشی, استیون‌دی‌ هاس, لوراکالوی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,مالی و سرمایه گذاری",
+          "doc_count" : 83,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 40,
+            "buckets" : [
+              {
+                "key" : "اکرم امیران,حیدر امیران,زهرا امیران",
+                "doc_count" : 37
+              },
+              {
+                "key" : "رابرت کیوساکی",
+                "doc_count" : 4
+              },
+              {
+                "key" : "جین برت",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,ابدیت و یک روز",
+          "doc_count" : 83,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "ابدیت و یک روز",
+                "doc_count" : 82
+              },
+              {
+                "key" : "--",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی,روانکاوی",
+          "doc_count" : 82,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 70,
+            "buckets" : [
+              {
+                "key" : "زیگموند فروید",
+                "doc_count" : 6
+              },
+              {
+                "key" : "اروین یالوم",
+                "doc_count" : 3
+              },
+              {
+                "key" : "شونا آینز",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی, فرهنگ و زندگی ",
+          "doc_count" : 82,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 75,
+            "buckets" : [
+              {
+                "key" : "علی نوری",
+                "doc_count" : 3
+              },
+              {
+                "key" : "رضا داوری‌اردكانی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "علی‌قلی جوکار",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی, روانشناسی کودکان",
+          "doc_count" : 77,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 72,
+            "buckets" : [
+              {
+                "key" : "آلیسون گوپنیک",
+                "doc_count" : 2
+              },
+              {
+                "key" : "دارلین براک",
+                "doc_count" : 2
+              },
+              {
+                "key" : " نایجل لاتا",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی,روانشناسی کودکان",
+          "doc_count" : 75,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 56,
+            "buckets" : [
+              {
+                "key" : "حمیدرضا صادقی‌زاده,داریوش صادقی",
+                "doc_count" : 7
+              },
+              {
+                "key" : "داریوش صادقی,علی صادقی",
+                "doc_count" : 6
+              },
+              {
+                "key" : "داریوش صادقی,مهناز صادقی",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Mystery & Detective",
+          "doc_count" : 72,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 50,
+            "buckets" : [
+              {
+                "key" : "Arthur Conan Doyle",
+                "doc_count" : 10
+              },
+              {
+                "key" : "Edward Phillips Oppenheim",
+                "doc_count" : 7
+              },
+              {
+                "key" : "Anna Katharine Green",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "روانشناسی",
+          "doc_count" : 66,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 63,
+            "buckets" : [
+              {
+                "key" : "HTeBooks",
+                "doc_count" : 1
+              },
+              {
+                "key" : "آدیاشانتی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "آرون تی‌بک",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,فردوسی خوانی",
+          "doc_count" : 66,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "حکیم ابوالقاسم فردوسی",
+                "doc_count" : 62
+              },
+              {
+                "key" : "فردوسی خوانی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "سعدی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش",
+          "doc_count" : 60,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 52,
+            "buckets" : [
+              {
+                "key" : "نرگس شفیعی",
+                "doc_count" : 4
+              },
+              {
+                "key" : "برایان تریسی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "آر.برایتون باون",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Fantasy",
+          "doc_count" : 57,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 26,
+            "buckets" : [
+              {
+                "key" : "Lyman Frank Baum",
+                "doc_count" : 20
+              },
+              {
+                "key" : "Lord Dunsany",
+                "doc_count" : 7
+              },
+              {
+                "key" : "Edith Nesbit",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی,سرگرمی",
+          "doc_count" : 57,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 19,
+            "buckets" : [
+              {
+                "key" : "چنل بی",
+                "doc_count" : 32
+              },
+              {
+                "key" : "تارا رضاپور,حامد اختیاری",
+                "doc_count" : 3
+              },
+              {
+                "key" : "علیرضا غلامی",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, مالی و سرمایه گذاری",
+          "doc_count" : 57,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 52,
+            "buckets" : [
+              {
+                "key" : "رابرت کیوساکی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "Amirreza Soury, Mehdi Moharrami, Samira Golkaran Moghadam",
+                "doc_count" : 1
+              },
+              {
+                "key" : "آن بودن",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,داستان شب",
+          "doc_count" : 57,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 43,
+            "buckets" : [
+              {
+                "key" : "حسین وحدانی",
+                "doc_count" : 5
+              },
+              {
+                "key" : "علی امیری",
+                "doc_count" : 5
+              },
+              {
+                "key" : "احسان رضایی",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی, گردشگری",
+          "doc_count" : 56,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 33,
+            "buckets" : [
+              {
+                "key" : "س. صداقت",
+                "doc_count" : 12
+              },
+              {
+                "key" : "وحیدرضا اخباری",
+                "doc_count" : 8
+              },
+              {
+                "key" : "علی مقيم",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان روسیه",
+          "doc_count" : 54,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 22,
+            "buckets" : [
+              {
+                "key" : "فئودور داستايفسكی‌",
+                "doc_count" : 17
+              },
+              {
+                "key" : "لئو تولستوی",
+                "doc_count" : 12
+              },
+              {
+                "key" : "آنتوان چخوف",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی, سرگرمی",
+          "doc_count" : 54,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 42,
+            "buckets" : [
+              {
+                "key" : "نیلوفر میرمحمدی",
+                "doc_count" : 5
+              },
+              {
+                "key" : "منیره عابدی‌درچه",
+                "doc_count" : 4
+              },
+              {
+                "key" : "آسیه محسنی, رضاعلی نوروزی, مریم صانعی",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر,هنر کاربردی",
+          "doc_count" : 53,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 35,
+            "buckets" : [
+              {
+                "key" : "ساناز شریفی,ساناز مینایی,سانیا شریفی",
+                "doc_count" : 8
+              },
+              {
+                "key" : "ماندیس آثار",
+                "doc_count" : 5
+              },
+              {
+                "key" : "پدرام حکیم‌زاده",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "--",
+          "doc_count" : 52,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 36,
+            "buckets" : [
+              {
+                "key" : "زینب ایلخانی",
+                "doc_count" : 10
+              },
+              {
+                "key" : "آنتون چخوف",
+                "doc_count" : 3
+              },
+              {
+                "key" : "لئوناردو داوینچی",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان آسیای شرقی",
+          "doc_count" : 52,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 24,
+            "buckets" : [
+              {
+                "key" : "هاروکی موراکامی",
+                "doc_count" : 21
+              },
+              {
+                "key" : "یوکیتو آیاتسوجی",
+                "doc_count" : 4
+              },
+              {
+                "key" : "اِدو گاوا رانپو",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی,گردشگری",
+          "doc_count" : 52,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 20,
+            "buckets" : [
+              {
+                "key" : "محمد جولایی تهرانی,موسی زمان‌زاده‌دربان",
+                "doc_count" : 26
+              },
+              {
+                "key" : "علی مقیم",
+                "doc_count" : 3
+              },
+              {
+                "key" : "محمد جولایی تهرانی,موسی زمان‌زاده",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان آمریکای جنوبی",
+          "doc_count" : 49,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 28,
+            "buckets" : [
+              {
+                "key" : " گابریل گارسیا مارکز",
+                "doc_count" : 12
+              },
+              {
+                "key" : "پائولو کوئیلو",
+                "doc_count" : 5
+              },
+              {
+                "key" : "خورخه لوئیس بورخس",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "علوم اجتماعی, ارتباطات و رسانه",
+          "doc_count" : 49,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 46,
+            "buckets" : [
+              {
+                "key" : " حامد نصیری,  سیدمحمدعلی سیدحسینی, فرزانه شریفی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "آلن داندس",
+                "doc_count" : 1
+              },
+              {
+                "key" : "آلن دوباتن",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,تبلیغات و بازاریابی,فروش",
+          "doc_count" : 48,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 32,
+            "buckets" : [
+              {
+                "key" : "برایان تریسی",
+                "doc_count" : 10
+              },
+              {
+                "key" : "زیگ زیگلار",
+                "doc_count" : 4
+              },
+              {
+                "key" : "جردن بلفورت",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان آمریکای جنوبی",
+          "doc_count" : 47,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 16,
+            "buckets" : [
+              {
+                "key" : "پائولو کوئیلو",
+                "doc_count" : 17
+              },
+              {
+                "key" : " گابریل گارسیا مارکز",
+                "doc_count" : 11
+              },
+              {
+                "key" : "پائولو کوئلیو",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,استودیو صداهای همراه",
+          "doc_count" : 47,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "استودیو صداهای همراه",
+                "doc_count" : 47
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان ایتالیا",
+          "doc_count" : 46,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 32,
+            "buckets" : [
+              {
+                "key" : "ایتالو کالوینو",
+                "doc_count" : 6
+              },
+              {
+                "key" : "النا فرانته",
+                "doc_count" : 5
+              },
+              {
+                "key" : "آلبرتو موراویا",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "زنان و فمینیسم",
+          "doc_count" : 44,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 38,
+            "buckets" : [
+              {
+                "key" : "اوریانا فالاچی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "لوییز ال.هی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "پاتریشیا مک‌کورمیک",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر,معماری",
+          "doc_count" : 44,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 35,
+            "buckets" : [
+              {
+                "key" : "سیدامیر منصوری",
+                "doc_count" : 6
+              },
+              {
+                "key" : "سیدامیر منصوری,شهره جوادی",
+                "doc_count" : 2
+              },
+              {
+                "key" : " احمدعلی فرزین,سیدامیر منصوری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم پایه,علوم کامپیوتر",
+          "doc_count" : 42,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 36,
+            "buckets" : [
+              {
+                "key" : "آلاله هاشمی نیا ,حمیدرضا قنبری,محمدمهدی ذوالفقاری",
+                "doc_count" : 2
+              },
+              {
+                "key" : "اسماعیل ملااحمدی,الهام محمود آبادی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "اسماعیل ملااحمدی,الهام محمودآبادی",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Short Stories (single Author)",
+          "doc_count" : 41,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 27,
+            "buckets" : [
+              {
+                "key" : "O. Henry",
+                "doc_count" : 8
+              },
+              {
+                "key" : "Francis Scott Fitzgerald",
+                "doc_count" : 3
+              },
+              {
+                "key" : "Maxim Gorky",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان ترکیه",
+          "doc_count" : 41,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 16,
+            "buckets" : [
+              {
+                "key" : "اورهان پاموک",
+                "doc_count" : 12
+              },
+              {
+                "key" : "الیف شافاک",
+                "doc_count" : 8
+              },
+              {
+                "key" : "عزیز نسین",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر, معماری",
+          "doc_count" : 40,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 35,
+            "buckets" : [
+              {
+                "key" : "اروین پانوفسکی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "مجيد غمامی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "الن وایس",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر, تاریخ هنر",
+          "doc_count" : 39,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 36,
+            "buckets" : [
+              {
+                "key" : "احمد ضابطی جهرمی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "اردشیر صالح‌پور",
+                "doc_count" : 1
+              },
+              {
+                "key" : "استيون هلر",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Drama",
+          "doc_count" : 38,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "William Shakespeare",
+                "doc_count" : 33
+              },
+              {
+                "key" : "George Bernard Shaw",
+                "doc_count" : 3
+              },
+              {
+                "key" : "Fred Merrick White",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دین و عرفان, مذهبی, کتاب های محرم",
+          "doc_count" : 37,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 31,
+            "buckets" : [
+              {
+                "key" : "سید مهدی شجاعی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "فیدیبو",
+                "doc_count" : 2
+              },
+              {
+                "key" : "مسعود معینی‌پور",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر,سینما و تاتر,دور تا دور دنیا نمایشنامه",
+          "doc_count" : 37,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 28,
+            "buckets" : [
+              {
+                "key" : "ابدیت و یک روز",
+                "doc_count" : 7
+              },
+              {
+                "key" : "آلن ویلیامز",
+                "doc_count" : 1
+              },
+              {
+                "key" : "آنجلو پارا",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Science Fiction",
+          "doc_count" : 36,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 18,
+            "buckets" : [
+              {
+                "key" : "H. G. Wells",
+                "doc_count" : 10
+              },
+              {
+                "key" : "Arthur Conan Doyle",
+                "doc_count" : 4
+              },
+              {
+                "key" : "George Allan England",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان پلیسی",
+          "doc_count" : 35,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 14,
+            "buckets" : [
+              {
+                "key" : "آگاتا کریستی",
+                "doc_count" : 15
+              },
+              {
+                "key" : " ژرژ سیمنون‌",
+                "doc_count" : 5
+              },
+              {
+                "key" : "آلفرد هيچكاك‌",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دین و عرفان, ادعیه",
+          "doc_count" : 35,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 23,
+            "buckets" : [
+              {
+                "key" : "سید مهدی شجاعی",
+                "doc_count" : 5
+              },
+              {
+                "key" : "هادی عباسی خراسانی",
+                "doc_count" : 5
+              },
+              {
+                "key" : "محمود صلواتی",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دین و عرفان,ادعیه",
+          "doc_count" : 33,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 14,
+            "buckets" : [
+              {
+                "key" : "--",
+                "doc_count" : 13
+              },
+              {
+                "key" : "سید مجتبی حسینی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "سیّدبن‌ طاووس",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی, آشپزی",
+          "doc_count" : 33,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 19,
+            "buckets" : [
+              {
+                "key" : "فخری مشهدی",
+                "doc_count" : 10
+              },
+              {
+                "key" : "آدینه کبرایی, سیده‌محبوبه حسینی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "بهزاد ناصحی",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, تبلیغات و بازاریابی, فروش",
+          "doc_count" : 33,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 27,
+            "buckets" : [
+              {
+                "key" : "برایان تریسی",
+                "doc_count" : 4
+              },
+              {
+                "key" : "آمنه الماسی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "استفان شیفمن",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو صدای زمین",
+          "doc_count" : 33,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "رادیو صدای زمین",
+                "doc_count" : 33
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان آلمان",
+          "doc_count" : 32,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 21,
+            "buckets" : [
+              {
+                "key" : "هاینریش بل",
+                "doc_count" : 4
+              },
+              {
+                "key" : "هرمان هسه",
+                "doc_count" : 4
+              },
+              {
+                "key" : "برگزیدگان جایزه ا.هنری",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر,تاریخ هنر",
+          "doc_count" : 32,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 27,
+            "buckets" : [
+              {
+                "key" : "احمد ژیرافر",
+                "doc_count" : 2
+              },
+              {
+                "key" : "صدرالدین طاهری",
+                "doc_count" : 2
+              },
+              {
+                "key" : "آر. رایان اندریس",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر,موسیقی",
+          "doc_count" : 31,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 20,
+            "buckets" : [
+              {
+                "key" : "بهرنگ نبی‌زاده,حسین فرضی",
+                "doc_count" : 5
+              },
+              {
+                "key" : "داريوش صفوت",
+                "doc_count" : 4
+              },
+              {
+                "key" : "فردریک نود",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان ترکیه",
+          "doc_count" : 30,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 10,
+            "buckets" : [
+              {
+                "key" : "الیف شافاک",
+                "doc_count" : 7
+              },
+              {
+                "key" : "عزیز نسین",
+                "doc_count" : 7
+              },
+              {
+                "key" : "اورهان پاموک",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر, موسیقی",
+          "doc_count" : 30,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 24,
+            "buckets" : [
+              {
+                "key" : "پیمان پورشکیبایی, رضا جدیدی",
+                "doc_count" : 3
+              },
+              {
+                "key" : " رضاجدیدی, پیمان پورشکیبایی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "استیون براون, بیورن مرکر, نیلز والین",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر, نقاشی",
+          "doc_count" : 30,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 24,
+            "buckets" : [
+              {
+                "key" : "ریچارد مولبرگر",
+                "doc_count" : 3
+              },
+              {
+                "key" : "سید مرتضی آوینی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "آرنی گرین برگ",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان آسیای شرقی",
+          "doc_count" : 29,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 8,
+            "buckets" : [
+              {
+                "key" : "هاروکی موراکامی",
+                "doc_count" : 17
+              },
+              {
+                "key" : "اوسامو دازای",
+                "doc_count" : 2
+              },
+              {
+                "key" : "یوکو اوگاوا",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی, ایران‌شناسی",
+          "doc_count" : 28,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 22,
+            "buckets" : [
+              {
+                "key" : "س. صداقت",
+                "doc_count" : 3
+              },
+              {
+                "key" : "حسین زنگویی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "--",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Biography & Autobiography, Artists, Architects, Photographers",
+          "doc_count" : 26,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 11,
+            "buckets" : [
+              {
+                "key" : "Robert Stawell Ball",
+                "doc_count" : 11
+              },
+              {
+                "key" : "Lev Nikolayevich Tolstoy",
+                "doc_count" : 2
+              },
+              {
+                "key" : "Mark Twain",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Literary Collections",
+          "doc_count" : 26,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 14,
+            "buckets" : [
+              {
+                "key" : "Virginia Woolf",
+                "doc_count" : 6
+              },
+              {
+                "key" : "Francis Scott Fitzgerald",
+                "doc_count" : 4
+              },
+              {
+                "key" : "David Herbert Lawrence",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "شعر,شعر جهان",
+          "doc_count" : 26,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 19,
+            "buckets" : [
+              {
+                "key" : "دانته آلیگیری",
+                "doc_count" : 3
+              },
+              {
+                "key" : "رابیندرانات تاگور",
+                "doc_count" : 2
+              },
+              {
+                "key" : "سوزان پولیس شوتز",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,آرشیو کتاب جمعه",
+          "doc_count" : 26,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 26
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Horror",
+          "doc_count" : 25,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 4,
+            "buckets" : [
+              {
+                "key" : "Howard Phillips Lovecraft",
+                "doc_count" : 10
+              },
+              {
+                "key" : "Edgar Allan Poe",
+                "doc_count" : 6
+              },
+              {
+                "key" : "Bram Stoker",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Human Geography",
+          "doc_count" : 25,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 18,
+            "buckets" : [
+              {
+                "key" : "Friedrich Wilhelm Nietzsche",
+                "doc_count" : 3
+              },
+              {
+                "key" : "John Stuart Mill",
+                "doc_count" : 2
+              },
+              {
+                "key" : "Niccolò Machiavelli",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان ایتالیا",
+          "doc_count" : 25,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 15,
+            "buckets" : [
+              {
+                "key" : "اوریانا فالاچی",
+                "doc_count" : 4
+              },
+              {
+                "key" : "آلبا د سس‌ پدس",
+                "doc_count" : 3
+              },
+              {
+                "key" : "النا فرانته",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, تبلیغات و بازاریابی, تبلیغات",
+          "doc_count" : 25,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 22,
+            "buckets" : [
+              {
+                "key" : "آژانس بازاریابی هوشمند اسمارت باگ",
+                "doc_count" : 1
+              },
+              {
+                "key" : "احمد روستا, علی خویه",
+                "doc_count" : 1
+              },
+              {
+                "key" : "استیو اولیری, کیم شیهان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آموزش, زبان آموزی",
+          "doc_count" : 23,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 20,
+            "buckets" : [
+              {
+                "key" : "اسماعیل زارع‌بهتاش, حسین زارع‌بهتاش",
+                "doc_count" : 1
+              },
+              {
+                "key" : "اصغر زارع کهنمویی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "اعظم یسلیانی, شهرام گیوی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان طنز",
+          "doc_count" : 22,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 18,
+            "buckets" : [
+              {
+                "key" : "سعید رحمان‌نیا",
+                "doc_count" : 2
+              },
+              {
+                "key" : "آیدین سیارسریع",
+                "doc_count" : 1
+              },
+              {
+                "key" : "احمد اکبرپور",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Humorous",
+          "doc_count" : 21,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 16,
+            "buckets" : [
+              {
+                "key" : "Sinclair Lewis",
+                "doc_count" : 2
+              },
+              {
+                "key" : "Tobias Smollett",
+                "doc_count" : 2
+              },
+              {
+                "key" : "Anthony Trollope",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو بلاکچین",
+          "doc_count" : 21,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "رادیو بلاک‌چین",
+                "doc_count" : 21
+              }
+            ]
+          }
+        },
+        {
+          "key" : "فلسفه, دانشنامه فلسفه استنفورد",
+          "doc_count" : 20,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 17,
+            "buckets" : [
+              {
+                "key" : "ابراهیم سشو رات",
+                "doc_count" : 1
+              },
+              {
+                "key" : "استیون استیچ, جان دوریس",
+                "doc_count" : 1
+              },
+              {
+                "key" : "استیون لوپر",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان مذهبی",
+          "doc_count" : 19,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 12,
+            "buckets" : [
+              {
+                "key" : "سید مهدی شجاعی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "ابراهیم حسن‌بیگی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "سید علی شجاعی",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش, تبلیغات و بازاریابی, برندینگ",
+          "doc_count" : 19,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 16,
+            "buckets" : [
+              {
+                "key" : "آل ریس, لورا ریس",
+                "doc_count" : 1
+              },
+              {
+                "key" : "ال ریس, لورا ریس",
+                "doc_count" : 1
+              },
+              {
+                "key" : "الن والاس, لزلی دشارناتونی, مالکوم مک دونالد",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو جولون",
+          "doc_count" : 19,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "رادیو جولون",
+                "doc_count" : 19
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کتاب‌صوتی",
+          "doc_count" : 19,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "استرینگ کست",
+                "doc_count" : 9
+              },
+              {
+                "key" : "استودیو صداهای همراه",
+                "doc_count" : 6
+              },
+              {
+                "key" : "حکیم ابوالقاسم فردوسی",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "اسطوره",
+          "doc_count" : 18,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 15,
+            "buckets" : [
+              {
+                "key" : " علی شریعتی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "اديت هاميلتون",
+                "doc_count" : 1
+              },
+              {
+                "key" : "استیون ترنبول",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "شعر",
+          "doc_count" : 18,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 14,
+            "buckets" : [
+              {
+                "key" : "جلال الدین محمد بلخی",
+                "doc_count" : 2
+              },
+              {
+                "key" : " سهراب سپهری",
+                "doc_count" : 1
+              },
+              {
+                "key" : "آنا آخماتووا",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,دیجی کالا مگ",
+          "doc_count" : 18,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 10,
+            "buckets" : [
+              {
+                "key" : "سمیرا علی‌نژاد",
+                "doc_count" : 4
+              },
+              {
+                "key" : "فرناز حیدری",
+                "doc_count" : 2
+              },
+              {
+                "key" : "محسن چینه‌کش,مهدی مومن‌زاده",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, History",
+          "doc_count" : 17,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 10,
+            "buckets" : [
+              {
+                "key" : "Arthur Conan Doyle",
+                "doc_count" : 3
+              },
+              {
+                "key" : "George Eliot",
+                "doc_count" : 2
+              },
+              {
+                "key" : "Victor Hugo",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان خارجی, داستان و رمان عرب",
+          "doc_count" : 17,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 9,
+            "buckets" : [
+              {
+                "key" : "صالح مرسی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "نجیب محفوظ",
+                "doc_count" : 3
+              },
+              {
+                "key" : "سنان انطون",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو تراولکست",
+          "doc_count" : 17,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "رادیو تراولکست",
+                "doc_count" : 17
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Westerns",
+          "doc_count" : 16,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "Max Brand",
+                "doc_count" : 6
+              },
+              {
+                "key" : "Zane Grey",
+                "doc_count" : 6
+              },
+              {
+                "key" : "B.M. Bower",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "علوم اجتماعی,علوم سیاسی",
+          "doc_count" : 16,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 9,
+            "buckets" : [
+              {
+                "key" : "محمد حسن رجبی",
+                "doc_count" : 4
+              },
+              {
+                "key" : "استیو اسمیت,جان بیلیس",
+                "doc_count" : 2
+              },
+              {
+                "key" : "اریک اولین رایت",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,دیج ایمیج",
+          "doc_count" : 16,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "دیج ایمیج",
+                "doc_count" : 16
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,مسیر آفرین",
+          "doc_count" : 16,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "مسیر آفرین",
+                "doc_count" : 16
+              }
+            ]
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی ,اول,آموزش قرآن",
+          "doc_count" : 15,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "داریوش صادقی",
+                "doc_count" : 11
+              },
+              {
+                "key" : "دارویوش صادقی",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی,آشپزی",
+          "doc_count" : 15,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 7,
+            "buckets" : [
+              {
+                "key" : "ماندیس آثار",
+                "doc_count" : 5
+              },
+              {
+                "key" : "میمنت مطیعی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "اعظم منصوری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر, هنر کاربردی",
+          "doc_count" : 15,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 10,
+            "buckets" : [
+              {
+                "key" : "امیر نصری",
+                "doc_count" : 2
+              },
+              {
+                "key" : "یاسین سیف‌‌زاده",
+                "doc_count" : 2
+              },
+              {
+                "key" : "حسین یاوری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی,فرهنگ و زندگی ",
+          "doc_count" : 14,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 7,
+            "buckets" : [
+              {
+                "key" : "زهره‌السادات عابدی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "محمد جولایی تهرانی,موسی زمان‌زاده‌دربان",
+                "doc_count" : 2
+              },
+              {
+                "key" : "نازنین آذرسا",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,سانازسانیا",
+          "doc_count" : 14,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 14
+              }
+            ]
+          }
+        },
+        {
+          "key" : "هنر,سینما و تاتر,فیلمنامه",
+          "doc_count" : 14,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 11,
+            "buckets" : [
+              {
+                "key" : "آشا محرابی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "اسکات بوکاتمن",
+                "doc_count" : 1
+              },
+              {
+                "key" : "اصغر عبداللهی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,پاپریکا",
+          "doc_count" : 13,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "پاپریکا",
+                "doc_count" : 13
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی,خانواده",
+          "doc_count" : 12,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 4,
+            "buckets" : [
+              {
+                "key" : "دبورا تیلور هاف",
+                "doc_count" : 4
+              },
+              {
+                "key" : "فرهنگ هلاکویی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "ایمی لینچ",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,تبلیغات و بازاریابی,برندینگ",
+          "doc_count" : 11,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 8,
+            "buckets" : [
+              {
+                "key" : "آل ریس,لورا ریس",
+                "doc_count" : 1
+              },
+              {
+                "key" : "آلینا ویلر",
+                "doc_count" : 1
+              },
+              {
+                "key" : "آموزشگاه ایده",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مدیریت، بازاریابی و فروش,تبلیغات و بازاریابی,تبلیغات",
+          "doc_count" : 11,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 8,
+            "buckets" : [
+              {
+                "key" : "احسانه نظری,حانیه میرزایی,محمد رسولی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "امیرحسین ‌پورحسینی,محمود محمدیان",
+                "doc_count" : 1
+              },
+              {
+                "key" : "برایان تریسی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Occult",
+          "doc_count" : 10,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 6,
+            "buckets" : [
+              {
+                "key" : "Montague Rhodes James",
+                "doc_count" : 2
+              },
+              {
+                "key" : "Aleister Crowley",
+                "doc_count" : 1
+              },
+              {
+                "key" : "Charles Dickens",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Thrillers",
+          "doc_count" : 10,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "John Buchan",
+                "doc_count" : 5
+              },
+              {
+                "key" : "Fred Merrick White",
+                "doc_count" : 2
+              },
+              {
+                "key" : "Edward Phillips Oppenheim",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,مدیریت",
+          "doc_count" : 10,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 7,
+            "buckets" : [
+              {
+                "key" : "احمد رضایی,مهری سروش",
+                "doc_count" : 1
+              },
+              {
+                "key" : "بهار هوتن,هومن ضرابی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "حامد حیدری,مرتضی موسی‌خانی,مولود انگورج",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "فلسفه,دانشنامه فلسفه استنفورد",
+          "doc_count" : 10,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 7,
+            "buckets" : [
+              {
+                "key" : "آن دانچین",
+                "doc_count" : 1
+              },
+              {
+                "key" : "بنت هلم",
+                "doc_count" : 1
+              },
+              {
+                "key" : "بیورن رمبرگ,کریستین گسدال",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات",
+          "doc_count" : 10,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 10
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Fairy Tales, Folklore & Mythology",
+          "doc_count" : 9,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "Andrew Lang",
+                "doc_count" : 6
+              },
+              {
+                "key" : "Homer",
+                "doc_count" : 1
+              },
+              {
+                "key" : "Oscar Wilde",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان خارجی,داستان و رمان عرب",
+          "doc_count" : 9,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "عبداللطیف طسوجی",
+                "doc_count" : 5
+              },
+              {
+                "key" : "جبران خليل جبران‌",
+                "doc_count" : 2
+              },
+              {
+                "key" : "منال شریف",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان طنز",
+          "doc_count" : 9,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 5,
+            "buckets" : [
+              {
+                "key" : "یاروسلاو هاشک",
+                "doc_count" : 2
+              },
+              {
+                "key" : "ابراهیم رها",
+                "doc_count" : 1
+              },
+              {
+                "key" : "ابوالفضل زرویی نصرآباد",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی عمران",
+          "doc_count" : 9,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 5,
+            "buckets" : [
+              {
+                "key" : "علی محمودی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "بهروز باقری,محسن حیدری",
+                "doc_count" : 1
+              },
+              {
+                "key" : "بهروز باقری,نسرین کریمی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان عاشقانه",
+          "doc_count" : 8,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 4,
+            "buckets" : [
+              {
+                "key" : "آن‌ماری سلینکو",
+                "doc_count" : 2
+              },
+              {
+                "key" : "براندون مول",
+                "doc_count" : 1
+              },
+              {
+                "key" : "جوجو مویز",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه زبان و ادبیات,انگلیسی",
+          "doc_count" : 8,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه مولفان",
+                "doc_count" : 8
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی برق",
+          "doc_count" : 8,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 4,
+            "buckets" : [
+              {
+                "key" : "اکبر محمدعلیزاده",
+                "doc_count" : 2
+              },
+              {
+                "key" : "Elektor Electronics",
+                "doc_count" : 1
+              },
+              {
+                "key" : "حسین فروزانی,حنیف فروزانی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "سبک زندگی,ایران‌شناسی",
+          "doc_count" : 8,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 5,
+            "buckets" : [
+              {
+                "key" : "اوشی کاوا شونروء",
+                "doc_count" : 1
+              },
+              {
+                "key" : "حسن نظامیان",
+                "doc_count" : 1
+              },
+              {
+                "key" : "حمیدرضا حسینی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "متون کلاسیک فارسی",
+          "doc_count" : 8,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "سید‌محمد دبیر سیاقی",
+                "doc_count" : 8
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,آشپزی مثبت",
+          "doc_count" : 8,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 8
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دین و عرفان,مذهبی,کتاب های محرم",
+          "doc_count" : 7,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "سید مهدی شجاعی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "حسین واعظ ‌کاشفی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "سیداحسان باقری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,مجله کسب و کار هاروارد",
+          "doc_count" : 7,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "دانشکده کسب و کار هاروارد",
+                "doc_count" : 7
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آموزش, علوم کامپیوتر",
+          "doc_count" : 6,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 3,
+            "buckets" : [
+              {
+                "key" : "افسانه شفیعی, محمد شیخ علی‌شاهی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "تهمینه خلیلی‌مقدم, زینب جهانی جوانمردی, فرهاد فرهادی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "حسین ابراهیم‌آبادی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان",
+          "doc_count" : 6,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 3,
+            "buckets" : [
+              {
+                "key" : "ال.پراکاش",
+                "doc_count" : 1
+              },
+              {
+                "key" : "اولیویه آدام",
+                "doc_count" : 1
+              },
+              {
+                "key" : "حسین‌ الهی‌ قمشه‌ای",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان, داستان و رمان مذهبی",
+          "doc_count" : 6,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 3,
+            "buckets" : [
+              {
+                "key" : "ابراهیم حسن‌بیگی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "سید مهدی شجاعی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "سیدجعفر شهیدی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان تاریخی",
+          "doc_count" : 6,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "سید مصطفی حسینی",
+                "doc_count" : 3
+              },
+              {
+                "key" : "حسین اسماعیلی,محمد بیغمی,میلاد جعفرپور",
+                "doc_count" : 1
+              },
+              {
+                "key" : "مصطفی اسلامیه",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان فانتزی",
+          "doc_count" : 6,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 3,
+            "buckets" : [
+              {
+                "key" : "جامنی سان",
+                "doc_count" : 1
+              },
+              {
+                "key" : "زینب نیکخواه‌آزاد",
+                "doc_count" : 1
+              },
+              {
+                "key" : "فیلیپ ک.دیک",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم ورزشی",
+          "doc_count" : 6,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 3,
+            "buckets" : [
+              {
+                "key" : "اردلان شریعت,شیما قنادی,عباس عبداللهی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "سرگی‌وان سین‌جان",
+                "doc_count" : 1
+              },
+              {
+                "key" : "سی.مورای آردیس",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,فناوری های نوین",
+          "doc_count" : 6,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "سید سعید قره یالی",
+                "doc_count" : 2
+              },
+              {
+                "key" : " سید سعید قره‌یالی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "امیرحسین مرتضوی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو مرز",
+          "doc_count" : 6,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "رادیو مرز",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,نیمه شب",
+          "doc_count" : 6,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "نیمه شب",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Poetry",
+          "doc_count" : 5,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "Andrew Lang",
+                "doc_count" : 1
+              },
+              {
+                "key" : "Dante Alighieri",
+                "doc_count" : 1
+              },
+              {
+                "key" : "John Milton",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, History, Africa",
+          "doc_count" : 5,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "George Bernard Shaw",
+                "doc_count" : 1
+              },
+              {
+                "key" : "Giraldus Cambrensis",
+                "doc_count" : 1
+              },
+              {
+                "key" : "Hammurabi",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Non-Fiction",
+          "doc_count" : 5,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Jane Austen",
+                "doc_count" : 3
+              },
+              {
+                "key" : "Arthur Conan Doyle",
+                "doc_count" : 1
+              },
+              {
+                "key" : "Robert Ervin Howard",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,مدیریت بازاریابی و بازرگانی",
+          "doc_count" : 5,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "احمدرضا جبل عاملی,علیرضا حمیدی زاهدانی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "سمیه پورمنفرد,علی زارعی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "شبنم وداد تقوی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "علوم اجتماعی,ارتباطات و رسانه",
+          "doc_count" : 5,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "بن مزریک",
+                "doc_count" : 1
+              },
+              {
+                "key" : "جمعی از نویسندگان",
+                "doc_count" : 1
+              },
+              {
+                "key" : "دن لافی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو میکس بار",
+          "doc_count" : 5,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "رادیو میکس بار",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Travel, Africa",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "David Herbert Lawrence",
+                "doc_count" : 1
+              },
+              {
+                "key" : "Giraldus Cambrensis",
+                "doc_count" : 1
+              },
+              {
+                "key" : "Sir John Mandeville",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور), دکتری, مدیریت",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "روح‌اله میرجلیلی, محمدرضا شهبازمرادی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "اسماعیل صالحی, علیرضا صادقیان",
+                "doc_count" : 1
+              },
+              {
+                "key" : "رحمان آقاجانی, مرتضی عزالدين",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "تاریخ, مشاهیر",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "جواد شیخ‌الاسلامی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "حسین هژیریان",
+                "doc_count" : 1
+              },
+              {
+                "key" : "غلامعلی حداد عادل",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , گروه علوم انسانی, حقوق",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "ابوالحسن مجتهد سلیمانی, محمد جلالی‌نژاد",
+                "doc_count" : 1
+              },
+              {
+                "key" : "جیمز بی تابس",
+                "doc_count" : 1
+              },
+              {
+                "key" : "زهرا سادات میرهاشمی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,اقتصاد",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "فرهاد سلطانی",
+                "doc_count" : 2
+              },
+              {
+                "key" : "بهرام شاهنده",
+                "doc_count" : 1
+              },
+              {
+                "key" : "سید مهدی سیدمطهری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی مکانیک",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "جواد مرادی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "سید سعید قره یالی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "علی بهلولی,لیلا مهدویان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه پزشکی,پزشکی",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "بهروز باقری,پیمان عمرانی,ناهید قنبریان",
+                "doc_count" : 1
+              },
+              {
+                "key" : "سمیه ابراهیمی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "فرزاد شیدفر,محمدحسن سهولی,وحید صنعتی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,سیب سبز",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه منزل",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,چشمه‌خوان",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "دیج ایمیج",
+                "doc_count" : 3
+              },
+              {
+                "key" : "رادیو صدای زمین",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,خانه‌های من",
+          "doc_count" : 4,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "خانه‌های من",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Social Science, Anthropology",
+          "doc_count" : 3,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Thomas Paine",
+                "doc_count" : 2
+              },
+              {
+                "key" : "Charlotte Perkins Gilman",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , گروه علوم انسانی, جامعه شناسی",
+          "doc_count" : 3,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "جوآن دی‌جورجیو لوتز",
+                "doc_count" : 1
+              },
+              {
+                "key" : "خدیجه کشاورز",
+                "doc_count" : 1
+              },
+              {
+                "key" : "ژاله شادی­‌طلب, سمانه ابراهیم‌‌پور, ملوک عزیززاده",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,مدیریت جهانگردی",
+          "doc_count" : 3,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "ناصر امینیان",
+                "doc_count" : 2
+              },
+              {
+                "key" : "عباس ابراهیمی,علی فریدنیان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه هنر,طراحی",
+          "doc_count" : 3,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "زهرا پورجبار",
+                "doc_count" : 1
+              },
+              {
+                "key" : "سجاد حسنی خلفلو",
+                "doc_count" : 1
+              },
+              {
+                "key" : "فاطمه شکری فومشی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه پزشکی,پرستاری",
+          "doc_count" : 3,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "دیوید ویلسون,شریل سی. راجرز,مریلین جی. هاکنبری",
+                "doc_count" : 1
+              },
+              {
+                "key" : "زهرا تورگلی,فریبا عسکری",
+                "doc_count" : 1
+              },
+              {
+                "key" : "شاهو فیضی,شعیب دهقانی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی ",
+          "doc_count" : 3,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "ایزابل بوییو-ژوژه,فرانسوا اولاس,میشل لنگور",
+                "doc_count" : 1
+              },
+              {
+                "key" : "باربارا تیلور",
+                "doc_count" : 1
+              },
+              {
+                "key" : "پی‌یر آورو,کریستین آمان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی ,اول,فارسی",
+          "doc_count" : 3,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "داریوش صادقی",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,زندگی ایده‌آل",
+          "doc_count" : 3,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه خط‌خطی",
+          "doc_count" : 3,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,هفته نامه شنبه",
+          "doc_count" : 3,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,پرچم سفید",
+          "doc_count" : 3,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "پرچم سفید",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Business & Economics, Accounting",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "David Hume",
+                "doc_count" : 1
+              },
+              {
+                "key" : "P. T. Barnum",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Children's Literature",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Susan Coolidge",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, War & Military",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Sir Walter Scott",
+                "doc_count" : 1
+              },
+              {
+                "key" : "Stephen Crane",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Free Books",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Franz Kafka",
+                "doc_count" : 1
+              },
+              {
+                "key" : "Prentice Mulford",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Humor, Form",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Oscar Wilde",
+                "doc_count" : 1
+              },
+              {
+                "key" : "William Makepeace Thackeray",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books,Audio Books",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Lewis Carroll",
+                "doc_count" : 1
+              },
+              {
+                "key" : "Sun Tzu",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),دکتری,طراحی",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "فاطمه شاهورتی‌افضلی,کاوه نبی,مهدی خدایی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "موریس پ. گالی,نینا جیامبلی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),سایر,استخدامی",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "علی ابراهیم‌نژاد,علی سرزعیم,محمد احمدی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "پژمان عباسی,سیدامیر صفوی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "داستان و رمان,داستان و رمان پلیسی",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "جانی دالر",
+                "doc_count" : 1
+              },
+              {
+                "key" : "جیمز پاترسون",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "اسامه اودا, سارا المتوالی, محمد حلمی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "اورانوس تاج‌الدینی,علی سادات‌موسوی,علی‌اکبر صبوری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,علوم آموزشی",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "سمیه ابراهیمی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "سپیده دیلمی کناری,علیرضا بادله",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه هنر,معماری",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "محمد محمدی",
+                "doc_count" : 1
+              },
+              {
+                "key" : "یونس بناء",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,دو هفته نامه موفقیت",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,نسل برتر",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو مذاکیار",
+          "doc_count" : 2,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "رادیو مذاکیار",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Biographical",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Virginia Woolf",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Christian",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Oscar Wilde",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Espionage",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Fred Merrick White",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Fairy Tales, Folklore & Mythology 2",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Jacob Ludwig Karl Grimm",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Fiction, Gothic",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Emily Brontë",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Literary Collections, African",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Virginia Woolf",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "English Books, Science & Technology",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "Robert Stawell Ball",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),دکتری,فناوری های نوین",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "احمدرضا طالب‌پور,اشکان طالبی,مسعود نظری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),دکتری,مدیریت جهانگردی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "ناصر امینیان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),کارشناسی ارشد,اقتصاد",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "روح‌الله همایون‌زاده",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),کارشناسی ارشد,فناوری های نوین",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "سایمون رابرتز,نیکولو گوارینتو",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "آزمون‌ها (کنکور),کارشناسی ارشد,مدیریت",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "یونس امیری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , ادبیات و علوم انسانی, تاریخ",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "عبدالرحمن عالم, مسعود طارم‌سری, نسرین مصفا",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , ادبیات و علوم انسانی, فلسفه",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "محسن آقاسی, محمدمهدی رحیمی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , الهیات و معارف اسلامی , علوم قرآن و حدیث",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "علامه آیت‌الله سید کمال حیدری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , الهیات و معارف اسلامی , فلسفه و حکمت اسلامی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "رضا آزاد, محمدهادی زاهدی وفا, مصطفی رشیدی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , حقوق و علوم سیاسی, جزا و جرم‌شناسی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "مهدی بالوی, مهناز بیات‌ کمیتکی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , حقوق و علوم سیاسی, حقوق عمومی ",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "نرگس ایزدی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , علوم اجتماعی و رفتاری, علوم اجتماعی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "محمدتقی ایمان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , علوم اجتماعی و رفتاری, مدیریت",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "محمد علی گودرزی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , هنر, معماری",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "سکینه کریمی هارونی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی , گروه علوم انسانی, روانشناسی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "دیوید کوهن",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,فنی و مهندسی ,مهندسی برق و کامپیوتر",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "اشوان خجسته‌پور,حمیدرضا قنبری,هدی محسنی راد",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه زبان و ادبیات,آلمانی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گمنام",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه زبان و ادبیات,زبان و ادبیات فارسی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "ابراهیم اقبالی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,الهیات",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "سیدعلی محمد موسوی جزایری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,تاریخ",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "محمدعلی پرغو",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم انسانی,جامعه شناسی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "اعظم راودراد",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم پایه,زمین شناسی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "عطااله ندیری,فاطمه واحدی,مریم قره‌خانی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه علوم پایه,شیمی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "مریم ساکت اسکویی,معصومه خاتمیان اسکویی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی شیمی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "سید رضا نبوی,عبدالحسین ناصری,مهتاب پیروزمند",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه فنی مهندسی,مهندسی مواد",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "حبیب اله رستگاری,مهدی خدایی,یاور منصوری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه هنر,طراحی صنعتی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "حامد فرجی,عبداله سلیمی,میلاد حشمتی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه هنر,موسیقی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "ویلیام کول",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه هنر,نقاشی ",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "سید محمد فدوی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "دانشگاهی ,گروه کشاورزی,مهندسی مکانیک ماشین آلات کشاورزی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "داود مومنی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی , پیش دبستانی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "جان وایت",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی ,اول,املا",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "فریده سیدناصری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "درسی و کمک درسی ,دوازدهم,فیزیک",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "اشرف‌السادات شکرباغانی,مسعود صدرالاشرافی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات, هفته نامه فیدیبو",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "کیوان ارزاقی",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,دولت یار",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,دوهفته‌نامه راز,فروش ویژه‌ نوروزی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,روبرو",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,سرآشپز",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,فصلنامه نهج البلاغه",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه بازاریاب بازارساز",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه رام",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه شبکه",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,ماهنامه نجوم",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,معماری سبز",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,پژوهش در هنر و علوم انسانی",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,پژوهش‌های نوین",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "مجلات,گاهنامه ققنوس",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه نویسندگان",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,استرینگ کست",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "استرینگ کست",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,رادیو دایجست",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "رادیو دایجست",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,سبکتو",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "گروه سبکتو",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کانال‌های پادکست,گروه هنری تاپ آرت",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "آگوست استریندبرگ",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کتاب‌های رایگان , دیجی‌کالا مگ",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "علیرضا برادران",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key" : "کلام، فرق و ادیان, پیامبران، امامان، مشاهیر",
+          "doc_count" : 1,
+          "authors" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "اسماعیل باغستانی, سیدمحمد عمادی حایری",
+                "doc_count" : 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
